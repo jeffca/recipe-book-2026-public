@@ -1,0 +1,110 @@
+[
+    {
+        "id": "1",
+        "equipment": "spiralizer"
+    },
+    {
+        "id": "2",
+        "equipment": "salad spinner"
+    },
+    {
+        "id": "3",
+        "equipment": "medium pot"
+    },
+    {
+        "id": "4",
+        "equipment": "deep frying pot"
+    },
+    {
+        "id": "5",
+        "equipment": "wire rack"
+    },
+    {
+        "id": "6",
+        "equipment": "baking tray"
+    },
+    {
+        "id": "7",
+        "equipment": "medium pan"
+    },
+    {
+        "id": "8",
+        "equipment": "tongs"
+    },
+    {
+        "id": "9",
+        "equipment": "large knife"
+    },
+    {
+        "id": "10",
+        "equipment": "scale"
+    },
+    {
+        "id": "11",
+        "equipment": "large spoon"
+    },
+    {
+        "id": "12",
+        "equipment": "kitchen glove"
+    },
+    {
+        "id": "13",
+        "equipment": "mixing bowl"
+    },
+    {
+        "id": "14",
+        "equipment": "medium knife"
+    },
+    {
+        "id": "15",
+        "equipment": "small spoon"
+    },
+    {
+        "id": "16",
+        "equipment": "small knife"
+    },
+    {
+        "id": "17",
+        "equipment": "large cutting board"
+    },
+    {
+        "id": "18",
+        "equipment": "small cutting board"
+    },
+    {
+        "id": "19",
+        "equipment": "spatula"
+    },
+    {
+        "id": "20",
+        "equipment": "small pot"
+    },
+    {
+        "id": "21",
+        "equipment": "paring knife"
+    },
+    {
+        "id": "22",
+        "equipment": "small crock pot"
+    },
+    {
+        "id": "23",
+        "equipment": "large crock pot"
+    },
+    {
+        "id": "24",
+        "equipment": "large pan"
+    },
+    {
+        "id": "25",
+        "equipment": "large pot"
+    },
+    {
+        "id": "26",
+        "equipment": "medium pot lid"
+    },
+    {
+        "id": "27",
+        "equipment": "shallow bowl"
+    }
+]

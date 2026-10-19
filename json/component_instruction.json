@@ -1,0 +1,1256 @@
+[
+    {
+        "component": "steak frites",
+        "step": "1",
+        "instruction": "bring steak out of fridge to be room temperature",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "steak frites",
+        "step": "2",
+        "instruction": "add salt to both sides of steak",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "fries",
+        "step": "1",
+        "instruction": "bring a medium pot of water with vinegar to a boil",
+        "recipe": "fries"
+    },
+    {
+        "component": "fries",
+        "step": "2",
+        "instruction": "spiralize a yellow potato",
+        "recipe": "fries"
+    },
+    {
+        "component": "fries",
+        "step": "3",
+        "instruction": "cut spiraled potato into smaller pieces",
+        "recipe": "fries"
+    },
+    {
+        "component": "steak frites",
+        "step": "3",
+        "instruction": "dice garlic",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "steak frites",
+        "step": "4",
+        "instruction": "dice rosemary",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "steak frites",
+        "step": "5",
+        "instruction": "cut butter into medium chunks",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "fries",
+        "step": "3",
+        "instruction": "add fries to boiling water for 7 minutes",
+        "recipe": "fries"
+    },
+    {
+        "component": "fries",
+        "step": "4",
+        "instruction": "place fries on wire rack to dry",
+        "recipe": "fries"
+    },
+    {
+        "component": "fries",
+        "step": "5",
+        "instruction": "add oil to a deep frying pot",
+        "recipe": "fries"
+    },
+    {
+        "component": "fries",
+        "step": "6",
+        "instruction": "heat oil to medium heat",
+        "recipe": "fries"
+    },
+    {
+        "component": "fries",
+        "step": "7",
+        "instruction": "use salad spinner to completely dry the fries",
+        "recipe": "fries"
+    },
+    {
+        "component": "steak frites",
+        "step": "6",
+        "instruction": "slice vertical slits into steak",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "steak frites",
+        "step": "7",
+        "instruction": "bring a medium pan to high heat",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "steak frites",
+        "step": "8",
+        "instruction": "add olive oil to pan",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "steak frites",
+        "step": "9",
+        "instruction": "add  steak to pan, flipping after 2 minutes",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "steak frites",
+        "step": "10",
+        "instruction": "reduce pan heat to medium-low ",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "steak frites",
+        "step": "11",
+        "instruction": "add butter, garlic and rosemary",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "steak frites",
+        "step": "12",
+        "instruction": "tilt the pan and butter base the steak until medium-rare",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "steak frites",
+        "step": "13",
+        "instruction": "set steak down on fresh cutting board, letting it rest",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "fries",
+        "step": "8",
+        "instruction": "add fries to frying oil",
+        "recipe": "fries"
+    },
+    {
+        "component": "steak frites",
+        "step": "14",
+        "instruction": "repeat steak instructions for additional steaks",
+        "recipe": "steak frites"
+    },
+    {
+        "component": "fries",
+        "step": "9",
+        "instruction": "remove fries after 5 minutes",
+        "recipe": "fries"
+    },
+    {
+        "component": "fries",
+        "step": "10",
+        "instruction": "increase deep frying pot heat to high",
+        "recipe": "fries"
+    },
+    {
+        "component": "fries",
+        "step": "11",
+        "instruction": "let fries rest",
+        "recipe": "fries"
+    },
+    {
+        "component": "fries",
+        "step": "12",
+        "instruction": "add fries to frying oil",
+        "recipe": "fries"
+    },
+    {
+        "component": "fries",
+        "step": "13",
+        "instruction": "add salt",
+        "recipe": "fries"
+    },
+    {
+        "component": "fries",
+        "step": "14",
+        "instruction": "add salt to both sides of steak",
+        "recipe": "fries"
+    },
+    {
+        "component": "lumpia",
+        "step": "1",
+        "instruction": "thaw frozen lumpia wrappers",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "2",
+        "instruction": "dice carrot",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "3",
+        "instruction": "dice onion",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "4",
+        "instruction": "dice garlic",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "5",
+        "instruction": "dice celery",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "6",
+        "instruction": "add carrot, onion, garlic and cerely to food processer as room allows",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "7",
+        "instruction": "combine carrot, onion, garlic and celery into a mixing bowl and stir well",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "8",
+        "instruction": "dice chicken",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "9",
+        "instruction": "add chicken to food processor",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "10",
+        "instruction": "add chicken to mixing bowl",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "11",
+        "instruction": "add egg, soy sauce, salt, and pepper to mixing bowl",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "12",
+        "instruction": "mix well until combined",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "13",
+        "instruction": "add oil to a deep frying pot",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "14",
+        "instruction": "heat on medium-high ",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "15",
+        "instruction": "create lumpias",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "16",
+        "instruction": "deep fry lumpias until golden brown",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "lumpia",
+        "step": "17",
+        "instruction": "set lumpias on a drying rack once cooked thoroughly",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "sweet chili sauce",
+        "step": "1",
+        "instruction": "dice red jalapeno",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "sweet chili sauce",
+        "step": "2",
+        "instruction": "dice garlic",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "sweet chili sauce",
+        "step": "3",
+        "instruction": "add water to a small pot and set heat to medium-high",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "sweet chili sauce",
+        "step": "4",
+        "instruction": "add diced jalapeno, vinegar and sugar to the boiling pot",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "sweet chili sauce",
+        "step": "5",
+        "instruction": "bring the ingredients to a bowl for 2 minutes",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "sweet chili sauce",
+        "step": "6",
+        "instruction": "mix cornstarch with water in a small bowl",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "sweet chili sauce",
+        "step": "7",
+        "instruction": "slowly add cornstarch mix to the pot, as necessary",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "sweet chili sauce",
+        "step": "8",
+        "instruction": "whisk immediately until the sauce turns into a saucey consistency",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "sweet chili sauce",
+        "step": "9",
+        "instruction": "serve in a small bowl, or store in a jar",
+        "recipe": "pork lumpia with sweet chili sauce"
+    },
+    {
+        "component": "english muffin",
+        "step": "1",
+        "instruction": "bloom the active dry yeast by mixing water and milk in a measuring cup, heat to 35-37\u00b0C, stir and add active dry yeast. Let it sit for 10 minutes.",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "english muffin",
+        "step": "2",
+        "instruction": "Measure out flower and put into a bowl, add salt, sugar then incorporate into flower. Add yeast mixture to flower and WARM melted butter (heat kills yeast).",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "english muffin",
+        "step": "3",
+        "instruction": "Mix into a shaggy dough, then knead for 10 minutes or until it reaches a smooth consistency.  Shape it into a ball and place in an oil lined bowl, cover with a damp towel and let rise at room temperature for 1 hour.",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "english muffin",
+        "step": "4",
+        "instruction": "Once dough had risen to roughly double the original size, punch it down, dust with flower and roll it out with a rolling pin, it should be about half an inch thick.",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "english muffin",
+        "step": "5",
+        "instruction": "Cut into rounds with circular cookie cutter, place onto a baking tray that has been generously dusted with cornmeal (or less traditionally flower).  Cover with a equally sized baking tray or damp towel and let them rise for 30-60 minutes (until plump & puffy).",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "english muffin",
+        "step": "6",
+        "instruction": "Heat up a stainless steel or cast iron pan to medium heat and add oil.  Place down as many rounds as possible into the pan, ensuring there's at least a half inch gap between each round.",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "english muffin",
+        "step": "7",
+        "instruction": "Let cook on medium heat for 5-7 minutes on each side, if they start to burn or brown too fast, lower the heat slowly.",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "english muffin",
+        "step": "8",
+        "instruction": "Let them cool on a wire rack, spread on butter and enjoy!",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "1",
+        "instruction": "begin toasting an english muffin",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "1",
+        "instruction": "using kitchen gloves, mix breakfast sausage with red jalapeno",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "2",
+        "instruction": "measure a 6oz serving",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "3",
+        "instruction": "form into a thin patty",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "4",
+        "instruction": "cook on high heat for 3 minutes",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "5",
+        "instruction": "cook a fried egg",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "5",
+        "instruction": "flip patty",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "6",
+        "instruction": "cook on high heat for 2 minutes",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "7",
+        "instruction": "flip patty",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "8",
+        "instruction": "cook on high heat for 2 minutes",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "9",
+        "instruction": "remove sausage from pan",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "10",
+        "instruction": "place sausage on top of bottom english muffin",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "11",
+        "instruction": "place egg on top of sausage",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "12",
+        "instruction": "place cheese on bottom of top english muffin",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast sandwich (spicy)",
+        "step": "13",
+        "instruction": "serve",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "fried egg",
+        "step": "1",
+        "instruction": "place frying pan on stove",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "fried egg",
+        "step": "2",
+        "instruction": "set burner to medium-high heat",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "fried egg",
+        "step": "3",
+        "instruction": "add 3oz butter",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "fried egg",
+        "step": "4",
+        "instruction": "spread butter around pan",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "fried egg",
+        "step": "5",
+        "instruction": "after 150 seconds, crack egg onto frying pan",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "fried egg",
+        "step": "6",
+        "instruction": "after 30 seconds, set burner to medium-low heat",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "fried egg",
+        "step": "7",
+        "instruction": "after 60 seconds, flip egg",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "fried egg",
+        "step": "8",
+        "instruction": "after 90 seconds, remove egg from pan",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast cheese",
+        "step": "1",
+        "instruction": "Heat the Milk: Gently bring the milk up to temperature 180\u00b0F/82\u00b0C ",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast cheese",
+        "step": "2",
+        "instruction": "Stir in fresh-squeezed orange juice into milk and let it sit undisturbed for 5 to 10 minutes.",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast cheese",
+        "step": "3",
+        "instruction": "Scoop the curds into a cheesecloth-lined colander.",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "breakfast cheese",
+        "step": "4",
+        "instruction": "Let it drain until desired consistency.",
+        "recipe": "breakfast sandwich"
+    },
+    {
+        "component": "meatball",
+        "step": "1",
+        "instruction": "pre-heat oven to 400 degrees",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "meatball",
+        "step": "2",
+        "instruction": "grab a medium mixing bowl",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "meatball",
+        "step": "3",
+        "instruction": "grab a large baking tray",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "meatball",
+        "step": "4",
+        "instruction": "mix ground beef, ground pork, egg, worcershire sauce, red jalapeno, salt and pepper",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "meatball",
+        "step": "5",
+        "instruction": "spray baking tray with olive oil",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "meatball",
+        "step": "6",
+        "instruction": "form meatball and spread evenly onto baking tray",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "meatball",
+        "step": "7",
+        "instruction": "cook for 12 minutes",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "spaghetti pasta",
+        "step": "1",
+        "instruction": "grab a large pot",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "spaghetti pasta",
+        "step": "2",
+        "instruction": "add water to pot and set to high heat",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "spaghetti pasta",
+        "step": "3",
+        "instruction": "after 5 minutes, stir in salt",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "spaghetti pasta",
+        "step": "4",
+        "instruction": "once boiling, add spaghetti",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "spaghetti pasta",
+        "step": "5",
+        "instruction": "stir occassionally",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "spaghetti pasta",
+        "step": "6",
+        "instruction": "strain spaghetti after 9 minutes, and preserve pasta water",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "garlic parsley pasta sauce",
+        "step": "1",
+        "instruction": "grab a large, shallow pan",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "garlic parsley pasta sauce",
+        "step": "2",
+        "instruction": "set heat to medium-low",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "garlic parsley pasta sauce",
+        "step": "3",
+        "instruction": "add olive oil to pan",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "garlic parsley pasta sauce",
+        "step": "4",
+        "instruction": "after 5 minutes, add minced garlic",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "garlic parsley pasta sauce",
+        "step": "5",
+        "instruction": "immediately set heat to low",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "garlic parsley pasta sauce",
+        "step": "6",
+        "instruction": "after 3 minutes, add 1/2 parsley then mix well",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "garlic parsley pasta sauce",
+        "step": "7",
+        "instruction": "stir occassionally",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "garlic parsley pasta sauce",
+        "step": "8",
+        "instruction": "after 3 minutes, add 1/4 parsley then mix well",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "garlic parsley pasta sauce",
+        "step": "9",
+        "instruction": "stir occassionally",
+        "recipe": "pasta aglio e olio"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "1",
+        "instruction": "grab a medium mixing bowl, mug, small spoon and kitchen gloves",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "plain bread",
+        "step": "2",
+        "instruction": "microwave a mug of water & sugar on high for 35 seconds",
+        "recipe": "bruschetta"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "3",
+        "instruction": "microwave a mug of milk on high for 25 seconds",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "4",
+        "instruction": "combine yeast, milk and sugar water, stir well",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "5",
+        "instruction": "let mug rest for 10 minutes",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "6",
+        "instruction": "add flour, salt and baking powder to mixing bowl",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "7",
+        "instruction": "pour yeast over flour mixture",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "8",
+        "instruction": "mix well until combined",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "9",
+        "instruction": "let dough rest for one hour",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "10",
+        "instruction": "mix well",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "11",
+        "instruction": "let dough rest in the fridge for eight hours",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "12",
+        "instruction": "after eight hours, set oven to 350 degrees",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "13",
+        "instruction": "spread dough on a baking sheet",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "14",
+        "instruction": "sprinkle salt on dough",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "15",
+        "instruction": "place baking sheet in oven",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "16",
+        "instruction": "bake dough for 20 minutes",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "sandwich roll",
+        "step": "17",
+        "instruction": "take bread out and let rest for 30 minutes",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "plain bread",
+        "step": "18",
+        "instruction": "slice bread into thin slices",
+        "recipe": "bruschetta"
+    },
+    {
+        "component": "plain bread",
+        "step": "19",
+        "instruction": "toast bread ",
+        "recipe": "bruschetta"
+    },
+    {
+        "component": "marinara sauce",
+        "step": "",
+        "instruction": "",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "meatball",
+        "step": "",
+        "instruction": "",
+        "recipe": "meatball sub"
+    },
+    {
+        "component": "ground beef with taco seasoning",
+        "step": "1",
+        "instruction": "combine cayenne pepper, cumin, garlic powder, oregano, chili powder, salt and pepper in a small bowl",
+        "recipe": "beef taco"
+    },
+    {
+        "component": "ground beef with taco seasoning",
+        "step": "2",
+        "instruction": "set stove to medium heat",
+        "recipe": "beef taco"
+    },
+    {
+        "component": "ground beef with taco seasoning",
+        "step": "3",
+        "instruction": "place medium pot on stove",
+        "recipe": "beef taco"
+    },
+    {
+        "component": "ground beef with taco seasoning",
+        "step": "4",
+        "instruction": "add olive oil to pot",
+        "recipe": "beef taco"
+    },
+    {
+        "component": "ground beef with taco seasoning",
+        "step": "5",
+        "instruction": "once oil is hot, add ground beef",
+        "recipe": "beef taco"
+    },
+    {
+        "component": "ground beef with taco seasoning",
+        "step": "6",
+        "instruction": "for 15 minutes, occassionally stir the beef then cover with lid",
+        "recipe": "beef taco"
+    },
+    {
+        "component": "ground beef with taco seasoning",
+        "step": "7",
+        "instruction": "when beef is almost finished cooking, add taco seasoning",
+        "recipe": "beef taco"
+    },
+    {
+        "component": "ground beef with taco seasoning",
+        "step": "8",
+        "instruction": "cover with lid then let rest for 30 minutes",
+        "recipe": "beef taco"
+    },
+    {
+        "component": "hard tortilla",
+        "step": "",
+        "instruction": "",
+        "recipe": ""
+    },
+    {
+        "component": "applesauce",
+        "step": "1",
+        "instruction": "set stove to high heat",
+        "recipe": "applesauce"
+    },
+    {
+        "component": "applesauce",
+        "step": "2",
+        "instruction": "add large pot with water",
+        "recipe": "applesauce"
+    },
+    {
+        "component": "applesauce",
+        "step": "3",
+        "instruction": "cut apples into small slices",
+        "recipe": "applesauce"
+    },
+    {
+        "component": "applesauce",
+        "step": "4",
+        "instruction": "once boiling, reduce heat to low",
+        "recipe": "applesauce"
+    },
+    {
+        "component": "applesauce",
+        "step": "5",
+        "instruction": "add apples to pot and cover with lid",
+        "recipe": "applesauce"
+    },
+    {
+        "component": "applesauce",
+        "step": "6",
+        "instruction": "stir occassionally for 30 minutes",
+        "recipe": "applesauce"
+    },
+    {
+        "component": "applesauce",
+        "step": "7",
+        "instruction": "mix boiled apples in blender",
+        "recipe": "applesauce"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "1",
+        "instruction": "pour flour into one shallow bowl",
+        "recipe": "applesauce"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "2",
+        "instruction": "whisk eggs in one shallow bowl",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "3",
+        "instruction": "add panko, garlic powder, onion powder, cayenne pepper, salt, and pepper in one shallow bowl and mix well ",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "4",
+        "instruction": "add chicken to food processor",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "5",
+        "instruction": "using the food processor, create ground chicken",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "6",
+        "instruction": "transfer ground chicken to a bowl",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "7",
+        "instruction": "place frying pot on stove",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "8",
+        "instruction": "add canola oil",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "9",
+        "instruction": "set stove to high heat",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "10",
+        "instruction": "repeat steps 11 through 15 until all chicken is complete",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "11",
+        "instruction": "form ground chicken into a nugget",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "12",
+        "instruction": "cover nugget in flour",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "13",
+        "instruction": "cover nugget in egg wash",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "14",
+        "instruction": "in a separate bowl, apply panko seasoning to nugget",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "15",
+        "instruction": "set nugget on baking tray",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "16",
+        "instruction": "once oil is hot, add nuggets to pot in small batches",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "17",
+        "instruction": "while nuggets are frying, set a wire rack on top of a place",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "chicken nuggets",
+        "step": "18",
+        "instruction": "after 4 minutes, remove nuggets from oil and place onto wire rack",
+        "recipe": "chicken nuggets"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "1",
+        "instruction": "cut limes in half",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "2",
+        "instruction": "using a citrus squeezer, add lime juice to mixing bowl",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "3",
+        "instruction": "add fish sauce to mixing bowl",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "4",
+        "instruction": "mince thai chili pepper",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "5",
+        "instruction": "add thai chili pepper to mixing bowl",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "6",
+        "instruction": "stir well then let sauce rest for 10 minutes",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "7",
+        "instruction": "add chicken wings to a tupperware bowl",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "8",
+        "instruction": "pour sauce over wings",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "9",
+        "instruction": "mix well and cover each wing with sauce",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "10",
+        "instruction": "place tupperware in fridge and let marinate for two hours",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "11",
+        "instruction": "mix cornstarch, flour, garlic powder, onion powder, salt and pepper in a shallow bowl",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "12",
+        "instruction": "remove chicken wings from fridge",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "13",
+        "instruction": "while chicken is reaching room temperature, place frying pot on stove",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "14",
+        "instruction": "add canola oil",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "15",
+        "instruction": "set stove to high heat",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "16",
+        "instruction": "repeat steps 14 through 15 until all chicken is complete",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "17",
+        "instruction": "dredge wing in flour mix",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "18",
+        "instruction": "set on baking sheet",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "19",
+        "instruction": "once oil is hot, add wings to pot in small batches",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "20",
+        "instruction": "while wings are cooking, place wire rack on top of plate",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "fried chicken (Thai style)",
+        "step": "21",
+        "instruction": "after 4 minutes, remove wings from oil and place onto wire rack",
+        "recipe": "fried chicken (Thai style)"
+    },
+    {
+        "component": "caesar salad dressing",
+        "step": "1",
+        "instruction": "mince garlic",
+        "recipe": "chicken caesar wrap"
+    },
+    {
+        "component": "caesar salad dressing",
+        "step": "2",
+        "instruction": "mix dijon mustard, red wine vinegar, worcestershire sauce, garlic and anchovy post in a bowlg ahead",
+        "recipe": "caesar salad"
+    },
+    {
+        "component": "caesar salad dressing",
+        "step": "3",
+        "instruction": "slowly drizzle olive oil while whisking",
+        "recipe": "caesar salad"
+    },
+    {
+        "component": "caesar salad dressing",
+        "step": "4",
+        "instruction": "add parmesan cheese",
+        "recipe": "caesar salad"
+    },
+    {
+        "component": "caesar salad dressing",
+        "step": "5",
+        "instruction": "let rest in fridge for 30 minutes",
+        "recipe": "caesar salad"
+    },
+    {
+        "component": "caesar salad lettuce",
+        "step": "1",
+        "instruction": "Romaine - cut or tear into bite size pieces, add juice of 1/2 lemon, salt, toss.  Then add Dressing and toss again before serving",
+        "recipe": "caesar salad"
+    },
+    {
+        "component": "bruschetta topping",
+        "step": "1",
+        "instruction": "slice tomato into small pieces",
+        "recipe": "bruschetta"
+    },
+    {
+        "component": "bruschetta topping",
+        "step": "2",
+        "instruction": "slice mozzarella cheese into small pieces",
+        "recipe": "bruschetta"
+    },
+    {
+        "component": "bruschetta topping",
+        "step": "3",
+        "instruction": "cut basil into small piece",
+        "recipe": "bruschetta"
+    },
+    {
+        "component": "bruschetta topping",
+        "step": "4",
+        "instruction": "spread tomato, mozzarella cheese, basil and balsamic vinegar onto bread",
+        "recipe": "bruschetta"
+    },
+    {
+        "component": "pancakes",
+        "step": "1",
+        "instruction": "mix pancake batter with water ",
+        "recipe": "pancakes"
+    },
+    {
+        "component": "pancakes",
+        "step": "2",
+        "instruction": "add blueberries and chocolate chips",
+        "recipe": "pancakes"
+    },
+    {
+        "component": "pancakes",
+        "step": "3",
+        "instruction": "turn stove on medium heat",
+        "recipe": "pancakes"
+    },
+    {
+        "component": "pancakes",
+        "step": "4",
+        "instruction": "place frying pan on stove with butter",
+        "recipe": "pancakes"
+    },
+    {
+        "component": "pancakes",
+        "step": "5",
+        "instruction": "using ladel, add pancake batter to pan",
+        "recipe": "pancakes"
+    },
+    {
+        "component": "pancakes",
+        "step": "6",
+        "instruction": "after 2 minutes, flip pancakes",
+        "recipe": "pancakes"
+    },
+    {
+        "component": "pancakes",
+        "step": "7",
+        "instruction": "press pancakes down to fully cook batter",
+        "recipe": "pancakes"
+    },
+    {
+        "component": "pancakes",
+        "step": "8",
+        "instruction": "flip pancakes one more time",
+        "recipe": "pancakes"
+    },
+    {
+        "component": "pancakes",
+        "step": "9",
+        "instruction": "remove pancakes to let cool",
+        "recipe": "pancakes"
+    },
+    {
+        "component": "pancakes",
+        "step": "10",
+        "instruction": "turn stove to medium-low heat",
+        "recipe": "pancakes"
+    },
+    {
+        "component": "pancakes",
+        "step": "11",
+        "instruction": "repeat steps 5 through 9 until all batter is finished",
+        "recipe": "pancakes"
+    }
+]

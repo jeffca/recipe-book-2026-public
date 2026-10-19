@@ -1,0 +1,77 @@
+[
+    {
+        "id": "1",
+        "recipe": "steak frites",
+        "category": "main course"
+    },
+    {
+        "id": "2",
+        "recipe": "pork lumpia with sweet chili sauce",
+        "category": "main course"
+    },
+    {
+        "id": "3",
+        "recipe": "ginger scallion chicken",
+        "category": "main course"
+    },
+    {
+        "id": "4",
+        "recipe": "breakfast sandwich",
+        "category": "breakfast"
+    },
+    {
+        "id": "5",
+        "recipe": "pasta aglio e olio",
+        "category": "main course"
+    },
+    {
+        "id": "6",
+        "recipe": "beef taco",
+        "category": "main course"
+    },
+    {
+        "id": "7",
+        "recipe": "meatball sub",
+        "category": "main course"
+    },
+    {
+        "id": "8",
+        "recipe": "caesar salad",
+        "category": "salad"
+    },
+    {
+        "id": "9",
+        "recipe": "chicken nuggets",
+        "category": "main course"
+    },
+    {
+        "id": "10",
+        "recipe": "applesauce",
+        "category": "snack"
+    },
+    {
+        "id": "11",
+        "recipe": "fries",
+        "category": "snack"
+    },
+    {
+        "id": "12",
+        "recipe": "bruschetta",
+        "category": "snack"
+    },
+    {
+        "id": "13",
+        "recipe": "fried chicken (Thai style)",
+        "category": "main course"
+    },
+    {
+        "id": "14",
+        "recipe": "chicken caesar wrap",
+        "category": "main course"
+    },
+    {
+        "id": "15",
+        "recipe": "pancakes",
+        "category": "breakfast"
+    }
+]

@@ -1,0 +1,347 @@
+[
+    {
+        "id": "1",
+        "ingredient": "garlic",
+        "measurement": "tbsp"
+    },
+    {
+        "id": "2",
+        "ingredient": "russett potato",
+        "measurement": "lb"
+    },
+    {
+        "id": "3",
+        "ingredient": "butter",
+        "measurement": "tbsp"
+    },
+    {
+        "id": "4",
+        "ingredient": "ribeye steak",
+        "measurement": "oz"
+    },
+    {
+        "id": "5",
+        "ingredient": "salt",
+        "measurement": "tsp"
+    },
+    {
+        "id": "6",
+        "ingredient": "pepper",
+        "measurement": "tsp"
+    },
+    {
+        "id": "7",
+        "ingredient": "canola oil",
+        "measurement": "cup"
+    },
+    {
+        "id": "8",
+        "ingredient": "water",
+        "measurement": "cup"
+    },
+    {
+        "id": "9",
+        "ingredient": "frozen lumpia wrapper",
+        "measurement": "ea"
+    },
+    {
+        "id": "10",
+        "ingredient": "boneless, skinless chicken thigh",
+        "measurement": "oz"
+    },
+    {
+        "id": "11",
+        "ingredient": "ground pork",
+        "measurement": "oz"
+    },
+    {
+        "id": "12",
+        "ingredient": "carrot",
+        "measurement": "oz"
+    },
+    {
+        "id": "13",
+        "ingredient": "celery",
+        "measurement": "oz"
+    },
+    {
+        "id": "14",
+        "ingredient": "yellow onion",
+        "measurement": "ea"
+    },
+    {
+        "id": "15",
+        "ingredient": "sweet onion",
+        "measurement": "ea"
+    },
+    {
+        "id": "16",
+        "ingredient": "green onion",
+        "measurement": "oz"
+    },
+    {
+        "id": "17",
+        "ingredient": "soy sauce",
+        "measurement": "tbsp"
+    },
+    {
+        "id": "18",
+        "ingredient": "honey",
+        "measurement": "tsp"
+    },
+    {
+        "id": "19",
+        "ingredient": "organic egg",
+        "measurement": "ea"
+    },
+    {
+        "id": "20",
+        "ingredient": "rosemary",
+        "measurement": "tsp"
+    },
+    {
+        "id": "21",
+        "ingredient": "white vinegar",
+        "measurement": "cup"
+    },
+    {
+        "id": "22",
+        "ingredient": "flour",
+        "measurement": "cup"
+    },
+    {
+        "id": "23",
+        "ingredient": "sugar",
+        "measurement": "tbsp"
+    },
+    {
+        "id": "24",
+        "ingredient": "yeast",
+        "measurement": "tsp"
+    },
+    {
+        "id": "25",
+        "ingredient": "lime",
+        "measurement": "ea"
+    },
+    {
+        "id": "26",
+        "ingredient": "fish sauce",
+        "measurement": "tbsp"
+    },
+    {
+        "id": "27",
+        "ingredient": "chicken wing",
+        "measurement": "oz"
+    },
+    {
+        "id": "28",
+        "ingredient": "chicken broth",
+        "measurement": "oz"
+    },
+    {
+        "id": "29",
+        "ingredient": "white rice",
+        "measurement": "cup"
+    },
+    {
+        "id": "30",
+        "ingredient": "ginger",
+        "measurement": "tsp"
+    },
+    {
+        "id": "31",
+        "ingredient": "ground beef",
+        "measurement": "oz"
+    },
+    {
+        "id": "32",
+        "ingredient": "paprika",
+        "measurement": "tsp"
+    },
+    {
+        "id": "33",
+        "ingredient": "cumin",
+        "measurement": "tsp"
+    },
+    {
+        "id": "34",
+        "ingredient": "bread flour",
+        "measurement": "cup"
+    },
+    {
+        "id": "35",
+        "ingredient": "anchovy paste",
+        "measurement": "tbsp"
+    },
+    {
+        "id": "36",
+        "ingredient": "parmesan cheese",
+        "measurement": "oz"
+    },
+    {
+        "id": "37",
+        "ingredient": "romaine lettuce",
+        "measurement": "oz"
+    },
+    {
+        "id": "38",
+        "ingredient": "tomato on the vine",
+        "measurement": "oz"
+    },
+    {
+        "id": "39",
+        "ingredient": "olive oil",
+        "measurement": "cup"
+    },
+    {
+        "id": "40",
+        "ingredient": "basil",
+        "measurement": "oz"
+    },
+    {
+        "id": "41",
+        "ingredient": "cosmic crisp apple",
+        "measurement": "oz"
+    },
+    {
+        "id": "42",
+        "ingredient": "bone-in, skin-on chicken thigh",
+        "measurement": "oz"
+    },
+    {
+        "id": "43",
+        "ingredient": "parsley",
+        "measurement": "oz"
+    },
+    {
+        "id": "44",
+        "ingredient": "avocado",
+        "measurement": "oz"
+    },
+    {
+        "id": "45",
+        "ingredient": "red jalapeno",
+        "measurement": "ea"
+    },
+    {
+        "id": "46",
+        "ingredient": "egg",
+        "measurement": "ea"
+    },
+    {
+        "id": "47",
+        "ingredient": "milk",
+        "measurement": "cup"
+    },
+    {
+        "id": "48",
+        "ingredient": "elbow macaroni",
+        "measurement": "cup"
+    },
+    {
+        "id": "49",
+        "ingredient": "cornstarch",
+        "measurement": "tsp"
+    },
+    {
+        "id": "50",
+        "ingredient": "breadcrumbs",
+        "measurement": "g"
+    },
+    {
+        "id": "51",
+        "ingredient": "chicken wings",
+        "measurement": "oz"
+    },
+    {
+        "id": "52",
+        "ingredient": "chicken thigh",
+        "measurement": "oz"
+    },
+    {
+        "id": "53",
+        "ingredient": "lemon juice",
+        "measurement": "tbsp"
+    },
+    {
+        "id": "54",
+        "ingredient": "red wine vinegar",
+        "measurement": "tsp"
+    },
+    {
+        "id": "55",
+        "ingredient": "dijon mustard",
+        "measurement": "tsp"
+    },
+    {
+        "id": "56",
+        "ingredient": "worcestershire sauce",
+        "measurement": "tsp"
+    },
+    {
+        "id": "57",
+        "ingredient": "mozzarella cheese",
+        "measurement": "oz"
+    },
+    {
+        "id": "58",
+        "ingredient": "balsamic vinegar",
+        "measurement": "tsp"
+    },
+    {
+        "id": "59",
+        "ingredient": "garlic powder",
+        "measurement": "tsp"
+    },
+    {
+        "id": "60",
+        "ingredient": "cayenne pepper",
+        "measurement": "tsp"
+    },
+    {
+        "id": "61",
+        "ingredient": "chili powder",
+        "measurement": "tsp"
+    },
+    {
+        "id": "62",
+        "ingredient": "oregano",
+        "measurement": "tsp"
+    },
+    {
+        "id": "63",
+        "ingredient": "chicken breast",
+        "measurement": "oz"
+    },
+    {
+        "id": "64",
+        "ingredient": "panko",
+        "measurement": "cup"
+    },
+    {
+        "id": "65",
+        "ingredient": "all-purpose flour",
+        "measurement": "cup"
+    },
+    {
+        "id": "66",
+        "ingredient": "onion powder",
+        "measurement": "tsp"
+    },
+    {
+        "id": "67",
+        "ingredient": "HEB buttermilk pancake mix",
+        "measurement": "cup"
+    },
+    {
+        "id": "68",
+        "ingredient": "blueberries",
+        "measurement": "cup"
+    },
+    {
+        "id": "69",
+        "ingredient": "chocolate chips",
+        "measurement": "cup"
+    }
+]
