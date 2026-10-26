@@ -1,110 +1,267 @@
 [
     {
         "id": "1",
-        "equipment": "spiralizer"
+        "equipment": "spiralizer",
+        "category": "cupboard"
     },
     {
         "id": "2",
-        "equipment": "salad spinner"
+        "equipment": "salad spinner",
+        "category": "cupboard"
     },
     {
         "id": "3",
-        "equipment": "medium pot"
+        "equipment": "medium pot",
+        "category": "stovetop"
     },
     {
         "id": "4",
-        "equipment": "deep frying pot"
+        "equipment": "medium frying pot",
+        "category": "stovetop"
     },
     {
         "id": "5",
-        "equipment": "wire rack"
+        "equipment": "wire rack",
+        "category": "cupboard"
     },
     {
         "id": "6",
-        "equipment": "baking tray"
+        "equipment": "baking tray",
+        "category": "baking"
     },
     {
         "id": "7",
-        "equipment": "medium pan"
+        "equipment": "medium pan",
+        "category": "stovetop"
     },
     {
         "id": "8",
-        "equipment": "tongs"
+        "equipment": "tongs",
+        "category": "utensil holder"
     },
     {
         "id": "9",
-        "equipment": "large knife"
+        "equipment": "large knife",
+        "category": "knife"
     },
     {
         "id": "10",
-        "equipment": "scale"
+        "equipment": "scale",
+        "category": "cupboard"
     },
     {
         "id": "11",
-        "equipment": "large spoon"
+        "equipment": "large spoon",
+        "category": "spoon"
     },
     {
         "id": "12",
-        "equipment": "kitchen glove"
+        "equipment": "kitchen gloves",
+        "category": "cupboard"
     },
     {
         "id": "13",
-        "equipment": "mixing bowl"
+        "equipment": "medium mixing bowl",
+        "category": "plates & bowls"
     },
     {
         "id": "14",
-        "equipment": "medium knife"
+        "equipment": "medium knife",
+        "category": "knife"
     },
     {
         "id": "15",
-        "equipment": "small spoon"
+        "equipment": "small spoon",
+        "category": "spoon"
     },
     {
         "id": "16",
-        "equipment": "small knife"
+        "equipment": "small knife",
+        "category": "knife"
     },
     {
         "id": "17",
-        "equipment": "large cutting board"
+        "equipment": "large cutting board",
+        "category": "cutting board"
     },
     {
         "id": "18",
-        "equipment": "small cutting board"
+        "equipment": "small cutting board",
+        "category": "cutting board"
     },
     {
         "id": "19",
-        "equipment": "spatula"
+        "equipment": "spatula",
+        "category": "utensil holder"
     },
     {
         "id": "20",
-        "equipment": "small pot"
+        "equipment": "small pot",
+        "category": "stovetop"
     },
     {
         "id": "21",
-        "equipment": "paring knife"
+        "equipment": "paring knife",
+        "category": "silverware"
     },
     {
         "id": "22",
-        "equipment": "small crock pot"
+        "equipment": "small pot",
+        "category": "stovetop"
     },
     {
         "id": "23",
-        "equipment": "large crock pot"
+        "equipment": "large pot",
+        "category": "stovetop"
     },
     {
         "id": "24",
-        "equipment": "large pan"
+        "equipment": "large pan",
+        "category": "stovetop"
     },
     {
         "id": "25",
-        "equipment": "large pot"
+        "equipment": "large pot",
+        "category": "stovetop"
     },
     {
         "id": "26",
-        "equipment": "medium pot lid"
+        "equipment": "medium pot lid",
+        "category": "stovetop"
     },
     {
         "id": "27",
-        "equipment": "shallow bowl"
+        "equipment": "shallow bowl",
+        "category": "plates & bowls"
+    },
+    {
+        "id": "28",
+        "equipment": "measuring cup",
+        "category": "cupboard"
+    },
+    {
+        "id": "29",
+        "equipment": "small pan",
+        "category": "stovetop"
+    },
+    {
+        "id": "30",
+        "equipment": "toaster oven",
+        "category": "counter"
+    },
+    {
+        "id": "31",
+        "equipment": "small bowl",
+        "category": "plates & bowls"
+    },
+    {
+        "id": "32",
+        "equipment": "medium plate",
+        "category": "plates & bowls"
+    },
+    {
+        "id": "33",
+        "equipment": "small crock pot",
+        "category": "cupboard"
+    },
+    {
+        "id": "34",
+        "equipment": "large crock pot",
+        "category": "cupboard"
+    },
+    {
+        "id": "35",
+        "equipment": "large pot lid",
+        "category": "stovetop"
+    },
+    {
+        "id": "36",
+        "equipment": "blender",
+        "category": "cupboard"
+    },
+    {
+        "id": "37",
+        "equipment": "food processor",
+        "category": "cupboard"
+    },
+    {
+        "id": "38",
+        "equipment": "large plate",
+        "category": "plates & bowls"
+    },
+    {
+        "id": "39",
+        "equipment": "chopsticks",
+        "category": "silverware"
+    },
+    {
+        "id": "40",
+        "equipment": "spider strainer",
+        "category": "utensil holder"
+    },
+    {
+        "id": "41",
+        "equipment": "citrus juicer",
+        "category": "cupboard"
+    },
+    {
+        "id": "42",
+        "equipment": "seram wrap",
+        "category": "cupboard"
+    },
+    {
+        "id": "43",
+        "equipment": "garlic press",
+        "category": "cupboard"
+    },
+    {
+        "id": "44",
+        "equipment": "mug",
+        "category": "cups & mugs"
+    },
+    {
+        "id": "45",
+        "equipment": "microwave",
+        "category": "counter"
+    },
+    {
+        "id": "46",
+        "equipment": "ladel",
+        "category": "cupboard"
+    },
+    {
+        "id": "47",
+        "equipment": "bread knife",
+        "category": "knife"
+    },
+    {
+        "id": "48",
+        "equipment": "",
+        "category": ""
+    },
+    {
+        "id": "49",
+        "equipment": "",
+        "category": ""
+    },
+    {
+        "id": "50",
+        "equipment": "",
+        "category": ""
+    },
+    {
+        "id": "51",
+        "equipment": "",
+        "category": ""
+    },
+    {
+        "id": "52",
+        "equipment": "",
+        "category": ""
+    },
+    {
+        "id": "53",
+        "equipment": "",
+        "category": ""
     }
 ]

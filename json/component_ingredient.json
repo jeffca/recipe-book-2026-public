@@ -4,769 +4,965 @@
         "ingredient": "ribeye steak",
         "quantity": "16",
         "measurement": "oz",
-        "recipe": "steak frites"
+        "location": "fridge"
     },
     {
         "component": "steak with garlic butter and herbs",
         "ingredient": "garlic",
         "quantity": "2",
         "measurement": "tbsp",
-        "recipe": "steak frites"
+        "location": "pantry"
     },
     {
         "component": "steak with garlic butter and herbs",
         "ingredient": "rosemary",
         "quantity": "1",
         "measurement": "tsp",
-        "recipe": "steak frites"
+        "location": "fridge"
     },
     {
         "component": "steak with garlic butter and herbs",
         "ingredient": "butter",
         "quantity": "3",
         "measurement": "tbsp",
-        "recipe": "steak frites"
+        "location": "fridge"
     },
     {
         "component": "fries",
         "ingredient": "russett potato",
         "quantity": "10",
         "measurement": "lb",
-        "recipe": "fries"
+        "location": "pantry"
     },
     {
         "component": "fries",
         "ingredient": "white vinegar",
         "quantity": "10",
         "measurement": "cup",
-        "recipe": "fries"
+        "location": "pantry"
     },
     {
         "component": "fries",
         "ingredient": "water",
         "quantity": "10",
         "measurement": "cup",
-        "recipe": "fries"
+        "location": "sink"
     },
     {
         "component": "fries",
         "ingredient": "salt",
         "quantity": "2",
         "measurement": "tsp",
-        "recipe": "fries"
+        "location": "pantry"
     },
     {
         "component": "fries",
         "ingredient": "pepper",
         "quantity": "2",
         "measurement": "tsp",
-        "recipe": "fries"
+        "location": "pantry"
     },
     {
         "component": "lumpia",
         "ingredient": "frozen lumpia wrapper",
         "quantity": "12",
         "measurement": "ea",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "location": "freezer"
     },
     {
         "component": "lumpia",
         "ingredient": "ground pork",
         "quantity": "10",
         "measurement": "oz",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "location": "fridge"
     },
     {
         "component": "lumpia",
         "ingredient": "carrot",
         "quantity": "4",
         "measurement": "oz",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "location": "fridge"
     },
     {
         "component": "lumpia",
         "ingredient": "celery",
         "quantity": "4",
         "measurement": "oz",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "location": "fridge"
     },
     {
         "component": "lumpia",
         "ingredient": "sweet onion",
         "quantity": "4",
         "measurement": "ea",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "location": "pantry"
     },
     {
         "component": "lumpia",
         "ingredient": "green onion",
         "quantity": "3",
-        "measurement": "oz",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "measurement": "bunch",
+        "location": "fridge"
     },
     {
         "component": "lumpia",
         "ingredient": "soy sauce",
         "quantity": "4",
         "measurement": "tbsp",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "location": "pantry"
     },
     {
         "component": "lumpia",
         "ingredient": "salt",
         "quantity": "1",
         "measurement": "tsp",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "location": "pantry"
     },
     {
         "component": "lumpia",
         "ingredient": "pepper",
         "quantity": "1",
         "measurement": "tsp",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "location": "pantry"
     },
     {
-        "component": "steamed chicken",
+        "component": "steamed chicken thigh",
         "ingredient": "water",
         "quantity": "8",
         "measurement": "cup",
-        "recipe": "ginger scallion chicken"
+        "location": "sink"
     },
     {
-        "component": "steamed chicken",
+        "component": "steamed chicken thigh",
         "ingredient": "boneless, skinless chicken thigh",
         "quantity": "12",
         "measurement": "oz",
-        "recipe": "ginger scallion chicken"
+        "location": "fridge"
     },
     {
         "component": "chicken broth rice with ginger",
         "ingredient": "chicken broth",
         "quantity": "12",
         "measurement": "oz",
-        "recipe": "ginger scallion chicken"
+        "location": "pantry"
     },
     {
         "component": "chicken broth rice with ginger",
         "ingredient": "water",
         "quantity": "24",
         "measurement": "cup",
-        "recipe": "ginger scallion chicken"
+        "location": "sink"
     },
     {
         "component": "chicken broth rice with ginger",
         "ingredient": "white rice",
         "quantity": "3",
         "measurement": "cup",
-        "recipe": "ginger scallion chicken"
+        "location": "pantry"
     },
     {
         "component": "chicken broth rice with ginger",
         "ingredient": "ginger",
         "quantity": "2",
         "measurement": "tsp",
-        "recipe": "ginger scallion chicken"
+        "location": "fridge"
     },
     {
         "component": "ginger scallion sauce",
-        "ingredient": "",
-        "quantity": "",
-        "measurement": "",
-        "recipe": "ginger scallion chicken"
+        "ingredient": "garlic",
+        "quantity": "4",
+        "measurement": "tbsp",
+        "location": "pantry"
+    },
+    {
+        "component": "ginger scallion sauce",
+        "ingredient": "green onion",
+        "quantity": "1",
+        "measurement": "bunch",
+        "location": "fridge"
+    },
+    {
+        "component": "ginger scallion sauce",
+        "ingredient": "ginger",
+        "quantity": "2",
+        "measurement": "tsp",
+        "location": "fridge"
+    },
+    {
+        "component": "ginger scallion sauce",
+        "ingredient": "olive oil",
+        "quantity": "2",
+        "measurement": "cup",
+        "location": "pantry"
+    },
+    {
+        "component": "ginger scallion sauce",
+        "ingredient": "soy sauce",
+        "quantity": "2",
+        "measurement": "tbsp",
+        "location": "pantry"
+    },
+    {
+        "component": "ginger scallion sauce",
+        "ingredient": "oyster sauce",
+        "quantity": "1",
+        "measurement": "tbsp",
+        "location": "fridge"
+    },
+    {
+        "component": "ginger scallion sauce",
+        "ingredient": "sugar",
+        "quantity": "2",
+        "measurement": "tbsp",
+        "location": "pantry"
+    },
+    {
+        "component": "ginger scallion sauce",
+        "ingredient": "sesame oil",
+        "quantity": "1",
+        "measurement": "tbsp",
+        "location": "pantry"
+    },
+    {
+        "component": "ginger scallion sauce",
+        "ingredient": "salt",
+        "quantity": "3",
+        "measurement": "tsp",
+        "location": "pantry"
+    },
+    {
+        "component": "ginger scallion sauce",
+        "ingredient": "pepper",
+        "quantity": "3",
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "component": "thai chicken marinade",
         "ingredient": "lime",
         "quantity": "4",
         "measurement": "ea",
-        "recipe": "fried chicken (Thai style)"
+        "location": "fridge"
     },
     {
         "component": "thai chicken marinade",
         "ingredient": "fish sauce",
         "quantity": "8",
         "measurement": "tbsp",
-        "recipe": "fried chicken (Thai style)"
+        "location": "pantry"
     },
     {
         "component": "guacamole",
         "ingredient": "",
         "quantity": "",
         "measurement": "",
-        "recipe": ""
+        "location": ""
     },
     {
         "component": "spicy breakfast sausage",
         "ingredient": "ground pork",
         "quantity": "12",
         "measurement": "oz",
-        "recipe": "breakfast sandwich"
+        "location": "fridge"
     },
     {
         "component": "spicy breakfast sausage",
         "ingredient": "breakfast spices",
         "quantity": "",
         "measurement": "",
-        "recipe": "breakfast sandwich"
+        "location": ""
     },
     {
         "component": "spicy breakfast sausage",
         "ingredient": "red jalapeno",
         "quantity": "3",
         "measurement": "ea",
-        "recipe": "breakfast sandwich"
+        "location": "fridge"
     },
     {
         "component": "fried egg",
         "ingredient": "egg",
         "quantity": "1",
         "measurement": "ea",
-        "recipe": "breakfast sandwich"
+        "location": "fridge"
     },
     {
         "component": "fried egg",
         "ingredient": "butter",
         "quantity": "2",
         "measurement": "tbsp",
-        "recipe": "breakfast sandwich"
+        "location": "fridge"
     },
     {
         "component": "english muffin",
         "ingredient": "flour",
         "quantity": "6",
         "measurement": "cup",
-        "recipe": "breakfast sandwich"
+        "location": "pantry"
     },
     {
         "component": "english muffin",
         "ingredient": "yeast",
         "quantity": "1",
         "measurement": "tsp",
-        "recipe": "breakfast sandwich"
+        "location": "pantry"
     },
     {
         "component": "english muffin",
         "ingredient": "sugar",
         "quantity": "2",
         "measurement": "tbsp",
-        "recipe": "breakfast sandwich"
+        "location": "pantry"
     },
     {
         "component": "english muffin",
         "ingredient": "milk",
         "quantity": "2",
         "measurement": "cup",
-        "recipe": "breakfast sandwich"
+        "location": "fridge"
     },
     {
         "component": "english muffin",
         "ingredient": "water",
         "quantity": "6",
         "measurement": "cup",
-        "recipe": "breakfast sandwich"
+        "location": "sink"
     },
     {
         "component": "sweet chili sauce",
         "ingredient": "white vinegar",
         "quantity": "0.5",
         "measurement": "cup",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "location": "pantry"
     },
     {
         "component": "sweet chili sauce",
         "ingredient": "red jalapeno",
         "quantity": "3",
         "measurement": "ea",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "location": "fridge"
     },
     {
         "component": "sweet chili sauce",
         "ingredient": "sugar",
         "quantity": "3",
         "measurement": "tbsp",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "location": "pantry"
     },
     {
         "component": "sweet chili sauce",
         "ingredient": "water",
         "quantity": "3",
         "measurement": "cup",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "location": "sink"
     },
     {
         "component": "sweet chili sauce",
         "ingredient": "garlic",
         "quantity": "4",
         "measurement": "tbsp",
-        "recipe": "pork lumpia with sweet chili sauce"
+        "location": "pantry"
     },
     {
         "component": "spaghetti pasta",
         "ingredient": "water",
         "quantity": "24",
         "measurement": "cup",
-        "recipe": "pasta aglio e olio"
+        "location": "sink"
     },
     {
         "component": "spaghetti pasta",
         "ingredient": "elbow macaroni",
         "quantity": "8",
         "measurement": "cup",
-        "recipe": "pasta aglio e olio"
+        "location": "pantry"
     },
     {
         "component": "garlic parsley pasta sauce",
         "ingredient": "parsley",
         "quantity": "10",
         "measurement": "oz",
-        "recipe": "pasta aglio e olio"
+        "location": "fridge"
     },
     {
         "component": "garlic parsley pasta sauce",
         "ingredient": "garlic",
         "quantity": "3",
         "measurement": "tbsp",
-        "recipe": "pasta aglio e olio"
+        "location": "pantry"
     },
     {
         "component": "garlic parsley pasta sauce",
         "ingredient": "olive oil",
         "quantity": "1",
         "measurement": "cup",
-        "recipe": "pasta aglio e olio"
+        "location": "pantry"
     },
     {
         "component": "garlic parsley pasta sauce",
         "ingredient": "butter",
         "quantity": "2",
         "measurement": "tbsp",
-        "recipe": "pasta aglio e olio"
+        "location": "fridge"
     },
     {
         "component": "thai chicken dredge",
         "ingredient": "flour",
         "quantity": "4",
         "measurement": "cup",
-        "recipe": "fried chicken (Thai style)"
+        "location": "pantry"
     },
     {
         "component": "thai chicken dredge",
         "ingredient": "cornstarch",
         "quantity": "3",
         "measurement": "tsp",
-        "recipe": "fried chicken (Thai style)"
+        "location": "pantry"
     },
     {
         "component": "thai chicken dredge",
         "ingredient": "breadcrumbs",
         "quantity": "20",
         "measurement": "g",
-        "recipe": "fried chicken (Thai style)"
+        "location": "pantry"
     },
     {
         "component": "fried chicken wings",
         "ingredient": "chicken wings",
         "quantity": "20",
         "measurement": "oz",
-        "recipe": "fried chicken (Thai style)"
+        "location": "fridge"
     },
     {
         "component": "fried chicken wings",
         "ingredient": "canola oil",
         "quantity": "12",
         "measurement": "cup",
-        "recipe": "fried chicken (Thai style)"
+        "location": "pantry"
     },
     {
         "component": "fried chicken bites",
         "ingredient": "chicken thigh",
         "quantity": "20",
         "measurement": "oz",
-        "recipe": "fried chicken (Thai style)"
+        "location": "fridge"
     },
     {
         "component": "fried chicken bites",
         "ingredient": "canola oil",
         "quantity": "12",
         "measurement": "cup",
-        "recipe": "fried chicken (Thai style)"
+        "location": "pantry"
     },
     {
         "component": "caesar salad lettuce",
         "ingredient": "romaine lettuce",
         "quantity": "16",
         "measurement": "oz",
-        "recipe": "caesar salad"
+        "location": "fridge"
     },
     {
         "component": "caesar salad lettuce",
         "ingredient": "lemon juice",
         "quantity": "4",
         "measurement": "tbsp",
-        "recipe": "caesar salad"
+        "location": "fridge"
     },
     {
         "component": "caesar salad lettuce",
         "ingredient": "salt",
         "quantity": "2",
         "measurement": "tsp",
-        "recipe": "caesar salad"
+        "location": "pantry"
     },
     {
         "component": "caesar salad dressing",
         "ingredient": "anchovy paste",
         "quantity": "2",
         "measurement": "tbsp",
-        "recipe": "caesar salad"
+        "location": "pantry"
     },
     {
         "component": "caesar salad dressing",
         "ingredient": "red wine vinegar",
         "quantity": "1",
         "measurement": "tsp",
-        "recipe": "chicken caesar wrap"
+        "location": "pantry"
     },
     {
         "component": "caesar salad dressing",
         "ingredient": "dijon mustard",
         "quantity": "1",
         "measurement": "tsp",
-        "recipe": "caesar salad"
+        "location": "pantry"
     },
     {
         "component": "caesar salad dressing",
         "ingredient": "worcestershire sauce",
         "quantity": "1",
         "measurement": "tsp",
-        "recipe": "caesar salad"
+        "location": "pantry"
     },
     {
         "component": "caesar salad dressing",
         "ingredient": "garlic",
         "quantity": "2",
         "measurement": "tbsp",
-        "recipe": "caesar salad"
+        "location": "pantry"
     },
     {
         "component": "caesar salad dressing",
         "ingredient": "olive oil",
         "quantity": "0.5",
         "measurement": "cup",
-        "recipe": "caesar salad"
+        "location": "pantry"
     },
     {
         "component": "caesar salad dressing",
         "ingredient": "parmesan cheese",
         "quantity": "2",
         "measurement": "oz",
-        "recipe": "caesar salad"
+        "location": "fridge"
     },
     {
         "component": "marinara sauce",
         "ingredient": "tomato on the vine",
         "quantity": "12",
         "measurement": "oz",
-        "recipe": "meatball sub"
+        "location": "fridge"
     },
     {
         "component": "marinara sauce",
         "ingredient": "garlic",
         "quantity": "3",
         "measurement": "tbsp",
-        "recipe": "meatball sub"
+        "location": "pantry"
     },
     {
         "component": "marinara sauce",
         "ingredient": "sweet onion",
         "quantity": "0.5",
         "measurement": "ea",
-        "recipe": "meatball sub"
+        "location": "pantry"
     },
     {
         "component": "marinara sauce",
         "ingredient": "olive oil",
         "quantity": "0.5",
         "measurement": "cup",
-        "recipe": "meatball sub"
+        "location": "pantry"
     },
     {
         "component": "meatball",
         "ingredient": "ground pork",
         "quantity": "20",
         "measurement": "oz",
-        "recipe": "meatball sub"
+        "location": "fridge"
     },
     {
         "component": "meatball",
         "ingredient": "ground beef",
         "quantity": "20",
         "measurement": "oz",
-        "recipe": "meatball sub"
+        "location": "fridge"
     },
     {
         "component": "meatball",
         "ingredient": "worcestershire sauce",
         "quantity": "6",
         "measurement": "tsp",
-        "recipe": "meatball sub"
+        "location": "pantry"
     },
     {
         "component": "meatball",
         "ingredient": "egg",
         "quantity": "2",
         "measurement": "ea",
-        "recipe": "meatball sub"
+        "location": "fridge"
     },
     {
         "component": "plain bread",
         "ingredient": "bread flour",
         "quantity": "12",
         "measurement": "cup",
-        "recipe": "bruschetta"
+        "location": "pantry"
     },
     {
         "component": "plain bread",
         "ingredient": "yeast",
         "quantity": "2",
         "measurement": "tsp",
-        "recipe": "bruschetta"
+        "location": "pantry"
     },
     {
         "component": "plain bread",
         "ingredient": "sugar",
         "quantity": "3",
         "measurement": "tbsp",
-        "recipe": "bruschetta"
+        "location": "pantry"
     },
     {
         "component": "plain bread",
         "ingredient": "water",
         "quantity": "8",
         "measurement": "cup",
-        "recipe": "bruschetta"
+        "location": "sink"
     },
     {
         "component": "plain bread",
         "ingredient": "salt",
         "quantity": "2",
         "measurement": "tsp",
-        "recipe": "bruschetta"
+        "location": "pantry"
     },
     {
         "component": "plain bread",
         "ingredient": "milk",
         "quantity": "4",
         "measurement": "cup",
-        "recipe": "bruschetta"
+        "location": "fridge"
     },
     {
         "component": "bruschetta topping",
         "ingredient": "mozzarella cheese",
         "quantity": "2",
         "measurement": "oz",
-        "recipe": "bruschetta"
+        "location": "fridge"
     },
     {
         "component": "bruschetta topping",
         "ingredient": "basil",
         "quantity": "1",
         "measurement": "oz",
-        "recipe": "bruschetta"
+        "location": "fridge"
     },
     {
         "component": "bruschetta topping",
         "ingredient": "balsamic vinegar",
         "quantity": "2",
         "measurement": "tsp",
-        "recipe": "bruschetta"
+        "location": "pantry"
     },
     {
         "component": "bruschetta topping",
         "ingredient": "tomato on the vine",
         "quantity": "2",
         "measurement": "oz",
-        "recipe": "bruschetta"
+        "location": "fridge"
     },
     {
         "component": "ground beef with taco seasoning",
         "ingredient": "ground beef",
         "quantity": "24",
         "measurement": "oz",
-        "recipe": "beef taco"
+        "location": "fridge"
     },
     {
         "component": "ground beef with taco seasoning",
         "ingredient": "garlic powder",
         "quantity": "2",
         "measurement": "tsp",
-        "recipe": "beef taco"
+        "location": "pantry"
     },
     {
         "component": "ground beef with taco seasoning",
         "ingredient": "cayenne pepper",
         "quantity": "2",
         "measurement": "tsp",
-        "recipe": "beef taco"
+        "location": "pantry"
     },
     {
         "component": "ground beef with taco seasoning",
         "ingredient": "cumin",
         "quantity": "2",
         "measurement": "tsp",
-        "recipe": "beef taco"
+        "location": "pantry"
     },
     {
         "component": "ground beef with taco seasoning",
         "ingredient": "salt",
         "quantity": "2",
         "measurement": "tsp",
-        "recipe": "beef taco"
+        "location": "pantry"
     },
     {
         "component": "ground beef with taco seasoning",
         "ingredient": "chili powder",
         "quantity": "2",
         "measurement": "tsp",
-        "recipe": "beef taco"
+        "location": "pantry"
     },
     {
         "component": "ground beef with taco seasoning",
         "ingredient": "oregano",
         "quantity": "1",
         "measurement": "tsp",
-        "recipe": "beef taco"
+        "location": "pantry"
     },
     {
         "component": "hard tortilla",
         "ingredient": "all-purpose flour",
         "quantity": "2",
         "measurement": "cup",
-        "recipe": "beef taco"
+        "location": "pantry"
     },
     {
         "component": "hard tortilla",
         "ingredient": "water",
         "quantity": "1",
         "measurement": "cup",
-        "recipe": "beef taco"
+        "location": "sink"
     },
     {
         "component": "applesauce",
         "ingredient": "water",
         "quantity": "16",
         "measurement": "cup",
-        "recipe": "applesauce"
+        "location": "sink"
     },
     {
         "component": "applesauce",
         "ingredient": "cosmic crisp apple",
         "quantity": "72",
         "measurement": "oz",
-        "recipe": "applesauce"
+        "location": "pantry"
     },
     {
         "component": "chicken nuggets",
         "ingredient": "chicken breast",
         "quantity": "24",
         "measurement": "oz",
-        "recipe": "chicken nuggets"
+        "location": "fridge"
     },
     {
         "component": "chicken nuggets",
         "ingredient": "panko",
         "quantity": "2",
         "measurement": "cup",
-        "recipe": "chicken nuggets"
+        "location": "pantry"
     },
     {
         "component": "chicken nuggets",
         "ingredient": "egg",
         "quantity": "3",
         "measurement": "ea",
-        "recipe": "chicken nuggets"
+        "location": "fridge"
     },
     {
         "component": "chicken nuggets",
         "ingredient": "all-purpose flour",
         "quantity": "3",
         "measurement": "cup",
-        "recipe": "chicken nuggets"
+        "location": "pantry"
     },
     {
         "component": "chicken nuggets",
         "ingredient": "garlic powder",
         "quantity": "4",
         "measurement": "tsp",
-        "recipe": "chicken nuggets"
+        "location": "pantry"
     },
     {
         "component": "chicken nuggets",
         "ingredient": "onion powder",
         "quantity": "4",
         "measurement": "tsp",
-        "recipe": "chicken nuggets"
+        "location": "pantry"
     },
     {
         "component": "chicken nuggets",
         "ingredient": "cayenne pepper",
         "quantity": "4",
         "measurement": "tsp",
-        "recipe": "chicken nuggets"
+        "location": "pantry"
     },
     {
         "component": "chicken nuggets",
         "ingredient": "salt",
         "quantity": "4",
         "measurement": "tsp",
-        "recipe": "chicken nuggets"
+        "location": "pantry"
     },
     {
         "component": "chicken nuggets",
         "ingredient": "pepper",
         "quantity": "4",
         "measurement": "tsp",
-        "recipe": "chicken nuggets"
+        "location": "pantry"
     },
     {
         "component": "chicken nuggets",
         "ingredient": "canola oil",
         "quantity": "8",
         "measurement": "cup",
-        "recipe": "chicken nuggets"
+        "location": "pantry"
     },
     {
         "component": "pancakes",
         "ingredient": "HEB buttermilk pancake mix",
         "quantity": "4",
         "measurement": "cup",
-        "recipe": "pancakes"
+        "location": "pantry"
     },
     {
         "component": "pancakes",
         "ingredient": "water",
         "quantity": "3",
         "measurement": "cup",
-        "recipe": "pancakes"
+        "location": "sink"
     },
     {
         "component": "pancakes",
         "ingredient": "blueberries",
         "quantity": "1",
         "measurement": "cup",
-        "recipe": "pancakes"
+        "location": "fridge"
     },
     {
         "component": "pancakes",
         "ingredient": "chocolate chips",
         "quantity": "0.5",
         "measurement": "cup",
-        "recipe": "pancakes"
+        "location": "pantry"
     },
     {
         "component": "pancakes",
         "ingredient": "butter",
         "quantity": "4",
         "measurement": "tbsp",
-        "recipe": "pancakes"
+        "location": "fridge"
+    },
+    {
+        "component": "steamed chicken breast (Chinese style)",
+        "ingredient": "chicken breast",
+        "quantity": "12",
+        "measurement": "oz",
+        "location": "fridge"
+    },
+    {
+        "component": "steamed chicken breast (Chinese style)",
+        "ingredient": "cornstarch",
+        "quantity": "20",
+        "measurement": "tsp",
+        "location": "pantry"
+    },
+    {
+        "component": "steamed chicken breast (Chinese style)",
+        "ingredient": "baking powder",
+        "quantity": "10",
+        "measurement": "tbsp",
+        "location": "pantry"
+    },
+    {
+        "component": "steamed chicken breast (Chinese style)",
+        "ingredient": "Chinese cooking wine",
+        "quantity": "3",
+        "measurement": "tbsp",
+        "location": "pantry"
+    },
+    {
+        "component": "steamed chicken breast (Chinese style)",
+        "ingredient": "green onion (whites)",
+        "quantity": "5",
+        "measurement": "ea",
+        "location": "fridge"
+    },
+    {
+        "component": "steamed broccoli",
+        "ingredient": "broccoli",
+        "quantity": "1",
+        "measurement": "bunch",
+        "location": "fridge"
+    },
+    {
+        "component": "steamed broccoli",
+        "ingredient": "water",
+        "quantity": "4",
+        "measurement": "cup",
+        "location": "sink"
+    },
+    {
+        "component": "chicken noodle soup",
+        "ingredient": "rotisserie chicken",
+        "quantity": "",
+        "measurement": "",
+        "location": ""
+    },
+    {
+        "component": "chicken noodle soup",
+        "ingredient": "carrot",
+        "quantity": "",
+        "measurement": "oz",
+        "location": "fridge"
+    },
+    {
+        "component": "chicken noodle soup",
+        "ingredient": "celery",
+        "quantity": "",
+        "measurement": "oz",
+        "location": "fridge"
+    },
+    {
+        "component": "chicken noodle soup",
+        "ingredient": "onion",
+        "quantity": "",
+        "measurement": "",
+        "location": ""
+    },
+    {
+        "component": "chicken noodle soup",
+        "ingredient": "garlic",
+        "quantity": "3",
+        "measurement": "tbsp",
+        "location": "pantry"
+    },
+    {
+        "component": "chicken noodle soup",
+        "ingredient": "oregano",
+        "quantity": "",
+        "measurement": "tsp",
+        "location": "pantry"
+    },
+    {
+        "component": "chicken noodle soup",
+        "ingredient": "lemon juice",
+        "quantity": "2",
+        "measurement": "tbsp",
+        "location": "fridge"
+    },
+    {
+        "component": "chicken noodle soup",
+        "ingredient": "russett potato",
+        "quantity": "",
+        "measurement": "lb",
+        "location": "pantry"
+    },
+    {
+        "component": "chicken noodle soup",
+        "ingredient": "curly parsley",
+        "quantity": "",
+        "measurement": "",
+        "location": ""
+    },
+    {
+        "component": "chicken noodle soup",
+        "ingredient": "water",
+        "quantity": "",
+        "measurement": "cup",
+        "location": "sink"
+    },
+    {
+        "component": "chicken noodle soup",
+        "ingredient": "cilantro",
+        "quantity": "",
+        "measurement": "",
+        "location": ""
+    },
+    {
+        "component": "chicken noodle soup",
+        "ingredient": "unsalted chicken broth",
+        "quantity": "",
+        "measurement": "",
+        "location": ""
     }
 ]

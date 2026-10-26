@@ -1,597 +1,686 @@
 [
     {
         "recipe": "steak frites",
-        "equipment": "kitchen knife",
-        "quantity": "1"
+        "equipment": "large knife",
+        "quantity": "1",
+        "location": "knife"
     },
     {
         "recipe": "steak frites",
         "equipment": "large cutting board",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cutting board"
     },
     {
         "recipe": "steak frites",
         "equipment": "small cutting board",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cutting board"
     },
     {
         "recipe": "steak frites",
-        "equipment": "frying pan",
-        "quantity": "1"
+        "equipment": "large pan",
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "steak frites",
-        "equipment": "butter knife",
-        "quantity": "1"
+        "equipment": "paring knife",
+        "quantity": "1",
+        "location": "silverware"
     },
     {
         "recipe": "pork lumpia with sweet chili sauce",
-        "equipment": "frying pot",
-        "quantity": "1"
+        "equipment": "medium frying pot",
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "pork lumpia with sweet chili sauce",
-        "equipment": "kitchen glove",
-        "quantity": "1"
+        "equipment": "kitchen gloves",
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "pork lumpia with sweet chili sauce",
-        "equipment": "mixing bowl",
-        "quantity": "1"
+        "equipment": "medium mixing bowl",
+        "quantity": "1",
+        "location": "plates & bowls"
     },
     {
         "recipe": "pork lumpia with sweet chili sauce",
         "equipment": "medium knife",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "knife"
     },
     {
         "recipe": "pork lumpia with sweet chili sauce",
         "equipment": "small pot",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "pork lumpia with sweet chili sauce",
         "equipment": "paring knife",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "silverware"
     },
     {
         "recipe": "pork lumpia with sweet chili sauce",
         "equipment": "small cutting board",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cutting board"
     },
     {
         "recipe": "pork lumpia with sweet chili sauce",
-        "equipment": "small measuring cup",
-        "quantity": "1"
+        "equipment": "measuring cup",
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "pork lumpia with sweet chili sauce",
         "equipment": "scale",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "breakfast sandwich",
         "equipment": "small cutting board",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cutting board"
     },
     {
         "recipe": "breakfast sandwich",
         "equipment": "medium mixing bowl",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "plates & bowls"
     },
     {
         "recipe": "breakfast sandwich",
         "equipment": "kitchen gloves",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "breakfast sandwich",
         "equipment": "scale",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "breakfast sandwich",
-        "equipment": "toaster oven",
-        "quantity": "1"
-    },
-    {
-        "recipe": "breakfast sandwich",
-        "equipment": "frying pan",
-        "quantity": "1"
+        "equipment": "small pan",
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "breakfast sandwich",
         "equipment": "spatula",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "utensil holder"
     },
     {
         "recipe": "breakfast sandwich",
         "equipment": "measuring cup",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "ginger scallion chicken",
-        "equipment": "deep, round pot",
-        "quantity": "1"
+        "equipment": "medium pot",
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "ginger scallion chicken",
-        "equipment": "pot lid",
-        "quantity": "1"
+        "equipment": "medium pot lid",
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "ginger scallion chicken",
         "equipment": "small bowl",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "plates & bowls"
     },
     {
         "recipe": "ginger scallion chicken",
         "equipment": "medium plate",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "plates & bowls"
     },
     {
         "recipe": "ginger scallion chicken",
         "equipment": "large knife",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "knife"
     },
     {
         "recipe": "ginger scallion chicken",
         "equipment": "large cutting board",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cutting board"
     },
     {
         "recipe": "ginger scallion chicken",
         "equipment": "tongs",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "utensil holder"
     },
     {
         "recipe": "meatball sub",
         "equipment": "small crock pot",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "meatball sub",
         "equipment": "large cutting board",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cutting board"
     },
     {
         "recipe": "meatball sub",
         "equipment": "large knife",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "knife"
     },
     {
         "recipe": "meatball sub",
-        "equipment": "small measuring cup",
-        "quantity": "1"
+        "equipment": "measuring cup",
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "meatball sub",
         "equipment": "scale",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "pasta aglio e olio",
         "equipment": "small knife",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "knife"
     },
     {
         "recipe": "pasta aglio e olio",
-        "equipment": "large measuring cup",
-        "quantity": "1"
+        "equipment": "measuring cup",
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "pasta aglio e olio",
         "equipment": "small cutting board",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cutting board"
     },
     {
         "recipe": "pasta aglio e olio",
         "equipment": "medium pot",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "pasta aglio e olio",
         "equipment": "medium pot lid",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "pasta aglio e olio",
         "equipment": "large pan",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "pasta aglio e olio",
         "equipment": "tongs",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "utensil holder"
     },
     {
         "recipe": "beef taco",
         "equipment": "large pot",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "beef taco",
         "equipment": "large pot lid",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "beef taco",
         "equipment": "large spoon",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "spoon"
     },
     {
         "recipe": "beef taco",
         "equipment": "medium pan",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "beef taco",
         "equipment": "medium knife",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "knife"
     },
     {
         "recipe": "beef taco",
         "equipment": "large cutting board",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cutting board"
     },
     {
         "recipe": "applesauce",
         "equipment": "large cutting board",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cutting board"
     },
     {
         "recipe": "applesauce",
         "equipment": "large knife",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "knife"
     },
     {
         "recipe": "applesauce",
         "equipment": "large pot",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "applesauce",
         "equipment": "large pot lid",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "applesauce",
         "equipment": "large spoon",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "spoon"
     },
     {
         "recipe": "applesauce",
         "equipment": "blender",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "fries",
         "equipment": "spiralizer",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "fries",
         "equipment": "large cutting board",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cutting board"
     },
     {
         "recipe": "fries",
         "equipment": "large knife",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "knife"
     },
     {
         "recipe": "fries",
         "equipment": "medium pot",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "fries",
-        "equipment": "frying pot",
-        "quantity": "1"
+        "equipment": "medium frying pot",
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "fries",
         "equipment": "measuring cup",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "chicken nuggets",
         "equipment": "shallow bowl",
-        "quantity": "4"
+        "quantity": "4",
+        "location": "plates & bowls"
     },
     {
         "recipe": "chicken nuggets",
         "equipment": "food processor",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "chicken nuggets",
-        "equipment": "medium bowl",
-        "quantity": "2"
+        "equipment": "medium mixing bowl",
+        "quantity": "2",
+        "location": "plates & bowls"
     },
     {
         "recipe": "chicken nuggets",
-        "equipment": "frying pot",
-        "quantity": "1"
+        "equipment": "medium frying pot",
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "chicken nuggets",
         "equipment": "wire rack",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "chicken nuggets",
         "equipment": "large plate",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "plates & bowls"
     },
     {
         "recipe": "chicken nuggets",
-        "equipment": "spoon",
-        "quantity": "1"
+        "equipment": "large spoon",
+        "quantity": "1",
+        "location": "spoon"
     },
     {
         "recipe": "chicken nuggets",
         "equipment": "kitchen gloves",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "chicken nuggets",
         "equipment": "chopsticks",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "silverware"
     },
     {
         "recipe": "chicken nuggets",
         "equipment": "wire rack",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "chicken nuggets",
-        "equipment": "frying spoon",
-        "quantity": "1"
+        "equipment": "spider strainer",
+        "quantity": "1",
+        "location": "utensil holder"
     },
     {
         "recipe": "chicken nuggets",
         "equipment": "baking tray",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "baking"
     },
     {
         "recipe": "fried chicken (Thai style)",
-        "equipment": "mixing bowl",
-        "quantity": "1"
+        "equipment": "medium mixing bowl",
+        "quantity": "1",
+        "location": "plates & bowls"
     },
     {
         "recipe": "fried chicken (Thai style)",
         "equipment": "citrus juicer",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "fried chicken (Thai style)",
         "equipment": "small cutting board",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cutting board"
     },
     {
         "recipe": "fried chicken (Thai style)",
         "equipment": "paring knife",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "silverware"
     },
     {
         "recipe": "fried chicken (Thai style)",
         "equipment": "seram wrap",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "fried chicken (Thai style)",
         "equipment": "shallow bowl",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "plates & bowls"
     },
     {
         "recipe": "fried chicken (Thai style)",
         "equipment": "baking tray",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "baking"
     },
     {
         "recipe": "fried chicken (Thai style)",
         "equipment": "wire rack",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "fried chicken (Thai style)",
         "equipment": "large plate",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "plates & bowls"
     },
     {
         "recipe": "fried chicken (Thai style)",
-        "equipment": "frying pot",
-        "quantity": "1"
+        "equipment": "medium frying pot",
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "fried chicken (Thai style)",
-        "equipment": "frying spoon",
-        "quantity": "1"
+        "equipment": "spider strainer",
+        "quantity": "1",
+        "location": "utensil holder"
     },
     {
         "recipe": "fried chicken (Thai style)",
         "equipment": "chopsticks",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "silverware"
     },
     {
         "recipe": "caesar salad",
-        "equipment": "mixing bowl",
-        "quantity": "1"
+        "equipment": "medium mixing bowl",
+        "quantity": "1",
+        "location": "plates & bowls"
     },
     {
         "recipe": "caesar salad",
         "equipment": "garlic press",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "caesar salad",
-        "equipment": "spoon",
-        "quantity": "1"
+        "equipment": "small spoon",
+        "quantity": "1",
+        "location": "spoon"
     },
     {
         "recipe": "caesar salad",
         "equipment": "seram wrap",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "caesar salad",
         "equipment": "salad spinner",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "caesar salad",
         "equipment": "citrus juicer",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "caesar salad",
         "equipment": "large knife",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "knife"
     },
     {
         "recipe": "caesar salad",
         "equipment": "large cutting board",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cutting board"
     },
     {
         "recipe": "caesar salad",
         "equipment": "measuring cup",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "chicken caesar wrap",
-        "equipment": "mixing bowl",
-        "quantity": "1"
+        "equipment": "medium mixing bowl",
+        "quantity": "1",
+        "location": "plates & bowls"
     },
     {
         "recipe": "chicken caesar wrap",
         "equipment": "garlic press",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "chicken caesar wrap",
-        "equipment": "spoon",
-        "quantity": "1"
+        "equipment": "small spoon",
+        "quantity": "1",
+        "location": "spoon"
     },
     {
         "recipe": "chicken caesar wrap",
         "equipment": "seram wrap",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "chicken caesar wrap",
         "equipment": "salad spinner",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "chicken caesar wrap",
         "equipment": "citrus juicer",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "chicken caesar wrap",
         "equipment": "measuring cup",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "bruschetta",
-        "equipment": "mixing bowl",
-        "quantity": "1"
+        "equipment": "medium mixing bowl",
+        "quantity": "1",
+        "location": "plates & bowls"
     },
     {
         "recipe": "bruschetta",
         "equipment": "baking tray",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "baking"
     },
     {
         "recipe": "bruschetta",
         "equipment": "measuring cup",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "bruschetta",
         "equipment": "large spoon",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "spoon"
     },
     {
         "recipe": "bruschetta",
         "equipment": "seram wrap",
-        "quantity": "1"
-    },
-    {
-        "recipe": "bruschetta",
-        "equipment": "toaster oven",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "bruschetta",
         "equipment": "bread knife",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "knife"
     },
     {
         "recipe": "bruschetta",
         "equipment": "large cutting board",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cutting board"
     },
     {
         "recipe": "bruschetta",
         "equipment": "mug",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cups & mugs"
     },
     {
         "recipe": "bruschetta",
-        "equipment": "spoon",
-        "quantity": "1"
-    },
-    {
-        "recipe": "bruschetta",
-        "equipment": "microwave",
-        "quantity": "1"
-    },
-    {
-        "recipe": "bruschetta",
-        "equipment": "oven",
-        "quantity": "1"
-    },
-    {
-        "recipe": "bruschetta",
-        "equipment": "refrigerator",
-        "quantity": "1"
+        "equipment": "small spoon",
+        "quantity": "1",
+        "location": "spoon"
     },
     {
         "recipe": "pancakes",
-        "equipment": "mixing bowl",
-        "quantity": "1"
+        "equipment": "medium mixing bowl",
+        "quantity": "1",
+        "location": "plates & bowls"
     },
     {
         "recipe": "pancakes",
         "equipment": "large spoon",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "spoon"
     },
     {
         "recipe": "pancakes",
-        "equipment": "frying pan",
-        "quantity": "1"
+        "equipment": "large pan",
+        "quantity": "1",
+        "location": "stovetop"
     },
     {
         "recipe": "pancakes",
         "equipment": "spatula",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "utensil holder"
     },
     {
         "recipe": "pancakes",
         "equipment": "wire rack",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "pancakes",
         "equipment": "measuring cup",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     },
     {
         "recipe": "pancakes",
         "equipment": "ladel",
-        "quantity": "1"
+        "quantity": "1",
+        "location": "cupboard"
     }
 ]

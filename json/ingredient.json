@@ -2,346 +2,451 @@
     {
         "id": "1",
         "ingredient": "garlic",
-        "measurement": "tbsp"
+        "measurement": "tbsp",
+        "location": "pantry"
     },
     {
         "id": "2",
         "ingredient": "russett potato",
-        "measurement": "lb"
+        "measurement": "lb",
+        "location": "pantry"
     },
     {
         "id": "3",
         "ingredient": "butter",
-        "measurement": "tbsp"
+        "measurement": "tbsp",
+        "location": "fridge"
     },
     {
         "id": "4",
         "ingredient": "ribeye steak",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "5",
         "ingredient": "salt",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "6",
         "ingredient": "pepper",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "7",
         "ingredient": "canola oil",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "pantry"
     },
     {
         "id": "8",
         "ingredient": "water",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "sink"
     },
     {
         "id": "9",
         "ingredient": "frozen lumpia wrapper",
-        "measurement": "ea"
+        "measurement": "ea",
+        "location": "freezer"
     },
     {
         "id": "10",
         "ingredient": "boneless, skinless chicken thigh",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "11",
         "ingredient": "ground pork",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "12",
         "ingredient": "carrot",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "13",
         "ingredient": "celery",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "14",
         "ingredient": "yellow onion",
-        "measurement": "ea"
+        "measurement": "ea",
+        "location": "pantry"
     },
     {
         "id": "15",
         "ingredient": "sweet onion",
-        "measurement": "ea"
+        "measurement": "ea",
+        "location": "pantry"
     },
     {
         "id": "16",
         "ingredient": "green onion",
-        "measurement": "oz"
+        "measurement": "bunch",
+        "location": "fridge"
     },
     {
         "id": "17",
         "ingredient": "soy sauce",
-        "measurement": "tbsp"
+        "measurement": "tbsp",
+        "location": "pantry"
     },
     {
         "id": "18",
         "ingredient": "honey",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "19",
         "ingredient": "organic egg",
-        "measurement": "ea"
+        "measurement": "ea",
+        "location": "fridge"
     },
     {
         "id": "20",
         "ingredient": "rosemary",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "fridge"
     },
     {
         "id": "21",
         "ingredient": "white vinegar",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "pantry"
     },
     {
         "id": "22",
         "ingredient": "flour",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "pantry"
     },
     {
         "id": "23",
         "ingredient": "sugar",
-        "measurement": "tbsp"
+        "measurement": "tbsp",
+        "location": "pantry"
     },
     {
         "id": "24",
         "ingredient": "yeast",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "25",
         "ingredient": "lime",
-        "measurement": "ea"
+        "measurement": "ea",
+        "location": "fridge"
     },
     {
         "id": "26",
         "ingredient": "fish sauce",
-        "measurement": "tbsp"
+        "measurement": "tbsp",
+        "location": "pantry"
     },
     {
         "id": "27",
         "ingredient": "chicken wing",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "28",
         "ingredient": "chicken broth",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "pantry"
     },
     {
         "id": "29",
         "ingredient": "white rice",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "pantry"
     },
     {
         "id": "30",
         "ingredient": "ginger",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "fridge"
     },
     {
         "id": "31",
         "ingredient": "ground beef",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "32",
         "ingredient": "paprika",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "33",
         "ingredient": "cumin",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "34",
         "ingredient": "bread flour",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "pantry"
     },
     {
         "id": "35",
         "ingredient": "anchovy paste",
-        "measurement": "tbsp"
+        "measurement": "tbsp",
+        "location": "pantry"
     },
     {
         "id": "36",
         "ingredient": "parmesan cheese",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "37",
         "ingredient": "romaine lettuce",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "38",
         "ingredient": "tomato on the vine",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "39",
         "ingredient": "olive oil",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "pantry"
     },
     {
         "id": "40",
         "ingredient": "basil",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "41",
         "ingredient": "cosmic crisp apple",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "pantry"
     },
     {
         "id": "42",
         "ingredient": "bone-in, skin-on chicken thigh",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "43",
         "ingredient": "parsley",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "44",
         "ingredient": "avocado",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "45",
         "ingredient": "red jalapeno",
-        "measurement": "ea"
+        "measurement": "ea",
+        "location": "fridge"
     },
     {
         "id": "46",
         "ingredient": "egg",
-        "measurement": "ea"
+        "measurement": "ea",
+        "location": "fridge"
     },
     {
         "id": "47",
         "ingredient": "milk",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "fridge"
     },
     {
         "id": "48",
         "ingredient": "elbow macaroni",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "pantry"
     },
     {
         "id": "49",
         "ingredient": "cornstarch",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "50",
         "ingredient": "breadcrumbs",
-        "measurement": "g"
+        "measurement": "g",
+        "location": "pantry"
     },
     {
         "id": "51",
         "ingredient": "chicken wings",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "52",
         "ingredient": "chicken thigh",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "53",
         "ingredient": "lemon juice",
-        "measurement": "tbsp"
+        "measurement": "tbsp",
+        "location": "fridge"
     },
     {
         "id": "54",
         "ingredient": "red wine vinegar",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "55",
         "ingredient": "dijon mustard",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "56",
         "ingredient": "worcestershire sauce",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "57",
         "ingredient": "mozzarella cheese",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "58",
         "ingredient": "balsamic vinegar",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "59",
         "ingredient": "garlic powder",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "60",
         "ingredient": "cayenne pepper",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "61",
         "ingredient": "chili powder",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "62",
         "ingredient": "oregano",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "63",
         "ingredient": "chicken breast",
-        "measurement": "oz"
+        "measurement": "oz",
+        "location": "fridge"
     },
     {
         "id": "64",
         "ingredient": "panko",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "pantry"
     },
     {
         "id": "65",
         "ingredient": "all-purpose flour",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "pantry"
     },
     {
         "id": "66",
         "ingredient": "onion powder",
-        "measurement": "tsp"
+        "measurement": "tsp",
+        "location": "pantry"
     },
     {
         "id": "67",
         "ingredient": "HEB buttermilk pancake mix",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "pantry"
     },
     {
         "id": "68",
         "ingredient": "blueberries",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "fridge"
     },
     {
         "id": "69",
         "ingredient": "chocolate chips",
-        "measurement": "cup"
+        "measurement": "cup",
+        "location": "pantry"
+    },
+    {
+        "id": "70",
+        "ingredient": "oyster sauce",
+        "measurement": "tbsp",
+        "location": "fridge"
+    },
+    {
+        "id": "71",
+        "ingredient": "sesame oil",
+        "measurement": "tbsp",
+        "location": "pantry"
+    },
+    {
+        "id": "72",
+        "ingredient": "baking powder",
+        "measurement": "tbsp",
+        "location": "pantry"
+    },
+    {
+        "id": "73",
+        "ingredient": "Chinese cooking wine",
+        "measurement": "tbsp",
+        "location": "pantry"
+    },
+    {
+        "id": "74",
+        "ingredient": "green onion (whites)",
+        "measurement": "ea",
+        "location": "fridge"
+    },
+    {
+        "id": "75",
+        "ingredient": "broccoli",
+        "measurement": "bunch",
+        "location": "fridge"
     }
 ]

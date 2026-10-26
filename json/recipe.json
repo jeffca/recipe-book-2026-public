@@ -2,76 +2,106 @@
     {
         "id": "1",
         "recipe": "steak frites",
-        "category": "main course"
+        "category": "main course",
+        "ethnicity": "american",
+        "profile": "savory"
     },
     {
         "id": "2",
         "recipe": "pork lumpia with sweet chili sauce",
-        "category": "main course"
+        "category": "main course",
+        "ethnicity": "filipino",
+        "profile": "savory"
     },
     {
         "id": "3",
         "recipe": "ginger scallion chicken",
-        "category": "main course"
+        "category": "main course",
+        "ethnicity": "chinese",
+        "profile": "savory"
     },
     {
         "id": "4",
         "recipe": "breakfast sandwich",
-        "category": "breakfast"
+        "category": "breakfast",
+        "ethnicity": "american",
+        "profile": "savory"
     },
     {
         "id": "5",
         "recipe": "pasta aglio e olio",
-        "category": "main course"
+        "category": "main course",
+        "ethnicity": "italian",
+        "profile": "savory"
     },
     {
         "id": "6",
         "recipe": "beef taco",
-        "category": "main course"
+        "category": "main course",
+        "ethnicity": "mexican",
+        "profile": "savory"
     },
     {
         "id": "7",
         "recipe": "meatball sub",
-        "category": "main course"
+        "category": "main course",
+        "ethnicity": "italian",
+        "profile": "savory"
     },
     {
         "id": "8",
         "recipe": "caesar salad",
-        "category": "salad"
+        "category": "salad",
+        "ethnicity": "american",
+        "profile": "savory"
     },
     {
         "id": "9",
         "recipe": "chicken nuggets",
-        "category": "main course"
+        "category": "main course",
+        "ethnicity": "american",
+        "profile": "savory"
     },
     {
         "id": "10",
         "recipe": "applesauce",
-        "category": "snack"
+        "category": "snack",
+        "ethnicity": "american",
+        "profile": "sweet"
     },
     {
         "id": "11",
         "recipe": "fries",
-        "category": "snack"
+        "category": "snack",
+        "ethnicity": "american",
+        "profile": "savory"
     },
     {
         "id": "12",
         "recipe": "bruschetta",
-        "category": "snack"
+        "category": "snack",
+        "ethnicity": "american",
+        "profile": "savory"
     },
     {
         "id": "13",
         "recipe": "fried chicken (Thai style)",
-        "category": "main course"
+        "category": "main course",
+        "ethnicity": "thai",
+        "profile": "savory"
     },
     {
         "id": "14",
         "recipe": "chicken caesar wrap",
-        "category": "main course"
+        "category": "main course",
+        "ethnicity": "american",
+        "profile": "savory"
     },
     {
         "id": "15",
         "recipe": "pancakes",
-        "category": "breakfast"
+        "category": "breakfast",
+        "ethnicity": "american",
+        "profile": "sweet"
     }
 ]

@@ -37,260 +37,266 @@
     },
     {
         "id": "7",
-        "recipe": "steak frites",
-        "component": "steak with garlic butter and herbs",
-        "component_has_instruction": "NO"
-    },
-    {
-        "id": "8",
-        "recipe": "steak frites",
-        "component": "french fries",
-        "component_has_instruction": "NO"
-    },
-    {
-        "id": "9",
         "recipe": "meatball sub",
         "component": "plain bread",
         "component_has_instruction": "YES"
     },
     {
-        "id": "10",
+        "id": "8",
         "recipe": "breakfast sandwich",
         "component": "plain bread",
         "component_has_instruction": "YES"
     },
     {
-        "id": "11",
+        "id": "9",
         "recipe": "pork lumpia with sweet chili sauce",
         "component": "lumpia",
         "component_has_instruction": "YES"
     },
     {
-        "id": "12",
+        "id": "10",
         "recipe": "pork lumpia with sweet chili sauce",
         "component": "sweet chili sauce",
         "component_has_instruction": "YES"
     },
     {
-        "id": "13",
+        "id": "11",
         "recipe": "ginger scallion chicken",
-        "component": "steamed chicken",
-        "component_has_instruction": "NO"
+        "component": "steamed chicken thigh",
+        "component_has_instruction": "YES"
     },
     {
-        "id": "14",
+        "id": "12",
         "recipe": "ginger scallion chicken",
         "component": "chicken broth rice with ginger",
         "component_has_instruction": "NO"
     },
     {
-        "id": "15",
+        "id": "13",
         "recipe": "ginger scallion chicken",
         "component": "ginger scallion sauce",
-        "component_has_instruction": "NO"
+        "component_has_instruction": "YES"
     },
     {
-        "id": "16",
+        "id": "14",
         "recipe": "pasta aglio e olio",
         "component": "garlic parsley pasta sauce",
         "component_has_instruction": "YES"
     },
     {
-        "id": "17",
+        "id": "15",
         "recipe": "pasta aglio e olio",
         "component": "spaghetti pasta",
         "component_has_instruction": "YES"
     },
     {
-        "id": "18",
+        "id": "16",
         "recipe": "steak frites",
         "component": "steak with garlic butter and herbs",
         "component_has_instruction": "YES"
     },
     {
-        "id": "19",
+        "id": "17",
         "recipe": "steak frites",
         "component": "fries",
         "component_has_instruction": "YES"
     },
     {
-        "id": "20",
+        "id": "18",
         "recipe": "pork lumpia with sweet chili sauce",
         "component": "lumpia",
+        "component_has_instruction": "YES"
+    },
+    {
+        "id": "19",
+        "recipe": "ginger scallion chicken",
+        "component": "steamed chicken",
+        "component_has_instruction": "YES"
+    },
+    {
+        "id": "20",
+        "recipe": "ginger scallion chicken",
+        "component": "chicken broth rice with ginger",
         "component_has_instruction": "NO"
     },
     {
         "id": "21",
         "recipe": "ginger scallion chicken",
-        "component": "steamed chicken",
-        "component_has_instruction": "NO"
-    },
-    {
-        "id": "22",
-        "recipe": "ginger scallion chicken",
-        "component": "chicken broth rice with ginger",
-        "component_has_instruction": "NO"
-    },
-    {
-        "id": "23",
-        "recipe": "ginger scallion chicken",
         "component": "ginger scallion sauce",
         "component_has_instruction": "NO"
     },
     {
-        "id": "24",
+        "id": "22",
         "recipe": "thai fried chicken",
         "component": "thai chicken marinade",
-        "component_has_instruction": "NO"
+        "component_has_instruction": "YES"
     },
     {
-        "id": "25",
+        "id": "23",
         "recipe": "breakfast sandwich",
         "component": "breakfast sausage (spicy)",
         "component_has_instruction": "NO"
     },
     {
-        "id": "26",
+        "id": "24",
         "recipe": "breakfast sandwich",
         "component": "english muffin",
         "component_has_instruction": "NO"
     },
     {
-        "id": "27",
+        "id": "25",
         "recipe": "pork lumpia with sweet chili sauce",
         "component": "sweet chili sauce",
-        "component_has_instruction": "NO"
+        "component_has_instruction": "YES"
+    },
+    {
+        "id": "26",
+        "recipe": "pasta aglio e olio",
+        "component": "spaghetti pasta",
+        "component_has_instruction": "YES"
+    },
+    {
+        "id": "27",
+        "recipe": "thai fried chicken",
+        "component": "fried chicken",
+        "component_has_instruction": "YES"
     },
     {
         "id": "28",
-        "recipe": "pasta aglio e olio",
-        "component": "spaghetti pasta",
-        "component_has_instruction": "NO"
-    },
-    {
-        "id": "29",
-        "recipe": "thai fried chicken",
-        "component": "fried chicken",
-        "component_has_instruction": "NO"
-    },
-    {
-        "id": "30",
         "recipe": "beef taco",
         "component": "taco seasoning",
         "component_has_instruction": "NO"
     },
     {
-        "id": "31",
+        "id": "29",
         "recipe": "chicken caesar wrap",
         "component": "caesar salad dressing",
         "component_has_instruction": "NO"
     },
     {
-        "id": "32",
+        "id": "30",
         "recipe": "chicken caesar wrap",
         "component": "soft tortilla",
-        "component_has_instruction": "NO"
-    },
-    {
-        "id": "33",
-        "recipe": "meatball sub",
-        "component": "marinara sauce",
         "component_has_instruction": "YES"
     },
     {
-        "id": "34",
+        "id": "31",
+        "recipe": "meatball sub",
+        "component": "marinara sauce",
+        "component_has_instruction": "NO"
+    },
+    {
+        "id": "32",
         "recipe": "meatball sub",
         "component": "meatball",
         "component_has_instruction": "YES"
     },
     {
-        "id": "35",
+        "id": "33",
         "recipe": "pepperoni & pineapple pizza",
         "component": "pizza dough",
-        "component_has_instruction": "NO"
-    },
-    {
-        "id": "36",
-        "recipe": "chicken nuggets",
-        "component": "chicken nuggets",
         "component_has_instruction": "YES"
     },
     {
-        "id": "37",
+        "id": "34",
+        "recipe": "chicken nuggets",
+        "component": "chicken nuggets",
+        "component_has_instruction": "NO"
+    },
+    {
+        "id": "35",
         "recipe": "applesauce",
         "component": "applesauce",
         "component_has_instruction": "YES"
     },
     {
-        "id": "38",
+        "id": "36",
         "recipe": "pasta aglio e olio",
         "component": "garlic parsley pasta sauce",
         "component_has_instruction": "YES"
     },
     {
-        "id": "39",
+        "id": "37",
         "recipe": "herb fried chicken",
         "component": "herb chicken dry seasoning",
         "component_has_instruction": "NO"
     },
     {
-        "id": "40",
+        "id": "38",
         "recipe": "meatball sub",
         "component": "sandwich roll",
         "component_has_instruction": "YES"
     },
     {
-        "id": "41",
+        "id": "39",
         "recipe": "avocado toast",
         "component": "avocado spread",
         "component_has_instruction": "NO"
     },
     {
-        "id": "42",
+        "id": "40",
         "recipe": "fries",
         "component": "fries",
         "component_has_instruction": "YES"
     },
     {
-        "id": "43",
+        "id": "41",
         "recipe": "chicken nuggets",
         "component": "chicken nuggets",
         "component_has_instruction": "YES"
     },
     {
-        "id": "44",
+        "id": "42",
         "recipe": "fried chicken (Thai style)",
         "component": "fried chicken (Thai style)",
         "component_has_instruction": "YES"
     },
     {
-        "id": "45",
+        "id": "43",
         "recipe": "caesar salad",
         "component": "caesar salad lettuce",
         "component_has_instruction": "YES"
     },
     {
-        "id": "46",
+        "id": "44",
         "recipe": "caesar salad",
         "component": "caesar salad dressing",
         "component_has_instruction": "YES"
     },
     {
-        "id": "47",
+        "id": "45",
         "recipe": "bruschetta",
         "component": "plain bread",
         "component_has_instruction": "YES"
     },
     {
-        "id": "48",
+        "id": "46",
         "recipe": "bruschetta",
         "component": "bruschetta topping",
         "component_has_instruction": "YES"
     },
     {
-        "id": "49",
+        "id": "47",
         "recipe": "pancakes",
         "component": "pancakes",
+        "component_has_instruction": "YES"
+    },
+    {
+        "id": "48",
+        "recipe": "chicken breast (Chinese style)",
+        "component": "steamed chicken breast (Chinese style)",
+        "component_has_instruction": "NO"
+    },
+    {
+        "id": "49",
+        "recipe": "chicken breast (Chinese style)",
+        "component": "ginger scallion sauce",
+        "component_has_instruction": "YES"
+    },
+    {
+        "id": "50",
+        "recipe": "chicken breast (Chinese style)",
+        "component": "steamed broccoli",
         "component_has_instruction": "YES"
     }
 ]
