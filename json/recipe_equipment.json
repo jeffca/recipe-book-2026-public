@@ -84,43 +84,49 @@
         "location": "cupboard"
     },
     {
-        "recipe": "breakfast sandwich",
+        "recipe": "pork lumpia with sweet chili sauce",
+        "equipment": "baking tray",
+        "quantity": "1",
+        "location": "baking"
+    },
+    {
+        "recipe": "breakfast sandwich (pork)",
         "equipment": "small cutting board",
         "quantity": "1",
         "location": "cutting board"
     },
     {
-        "recipe": "breakfast sandwich",
+        "recipe": "breakfast sandwich (pork)",
         "equipment": "medium mixing bowl",
         "quantity": "1",
         "location": "plates & bowls"
     },
     {
-        "recipe": "breakfast sandwich",
+        "recipe": "breakfast sandwich (pork)",
         "equipment": "kitchen gloves",
         "quantity": "1",
         "location": "cupboard"
     },
     {
-        "recipe": "breakfast sandwich",
+        "recipe": "breakfast sandwich (pork)",
         "equipment": "scale",
         "quantity": "1",
         "location": "cupboard"
     },
     {
-        "recipe": "breakfast sandwich",
+        "recipe": "breakfast sandwich (pork)",
         "equipment": "small pan",
         "quantity": "1",
         "location": "stovetop"
     },
     {
-        "recipe": "breakfast sandwich",
+        "recipe": "breakfast sandwich (pork)",
         "equipment": "spatula",
         "quantity": "1",
         "location": "utensil holder"
     },
     {
-        "recipe": "breakfast sandwich",
+        "recipe": "breakfast sandwich (pork)",
         "equipment": "measuring cup",
         "quantity": "1",
         "location": "cupboard"
@@ -680,6 +686,186 @@
     {
         "recipe": "pancakes",
         "equipment": "ladel",
+        "quantity": "1",
+        "location": "cupboard"
+    },
+    {
+        "recipe": "chicken noodle soup",
+        "equipment": "large cutting board",
+        "quantity": "1",
+        "location": "cutting board"
+    },
+    {
+        "recipe": "chicken noodle soup",
+        "equipment": "large knife",
+        "quantity": "1",
+        "location": "knife"
+    },
+    {
+        "recipe": "chicken noodle soup",
+        "equipment": "small pan",
+        "quantity": "1",
+        "location": "stovetop"
+    },
+    {
+        "recipe": "chicken noodle soup",
+        "equipment": "large pot",
+        "quantity": "1",
+        "location": "stovetop"
+    },
+    {
+        "recipe": "chicken noodle soup",
+        "equipment": "large pot lid",
+        "quantity": "1",
+        "location": "stovetop"
+    },
+    {
+        "recipe": "chicken noodle soup",
+        "equipment": "large spoon",
+        "quantity": "1",
+        "location": "spoon"
+    },
+    {
+        "recipe": "chicken breast (Chinese style)",
+        "equipment": "steaming tray",
+        "quantity": "1",
+        "location": "cupboard"
+    },
+    {
+        "recipe": "chicken breast (Chinese style)",
+        "equipment": "medium pot",
+        "quantity": "1",
+        "location": "stovetop"
+    },
+    {
+        "recipe": "chicken breast (Chinese style)",
+        "equipment": "small pan",
+        "quantity": "1",
+        "location": "stovetop"
+    },
+    {
+        "recipe": "chicken breast (Chinese style)",
+        "equipment": "paring knife",
+        "quantity": "1",
+        "location": "silverware"
+    },
+    {
+        "recipe": "chicken breast (Chinese style)",
+        "equipment": "large knife",
+        "quantity": "1",
+        "location": "knife"
+    },
+    {
+        "recipe": "chicken breast (Chinese style)",
+        "equipment": "small bowl",
+        "quantity": "1",
+        "location": "plates & bowls"
+    },
+    {
+        "recipe": "chicken breast (Chinese style)",
+        "equipment": "small spoon",
+        "quantity": "1",
+        "location": "spoon"
+    },
+    {
+        "recipe": "chicken breast (Chinese style)",
+        "equipment": "tongs",
+        "quantity": "1",
+        "location": "utensil holder"
+    },
+    {
+        "recipe": "breakfast sandwich (bacon)",
+        "equipment": "small pan",
+        "quantity": "1",
+        "location": "stovetop"
+    },
+    {
+        "recipe": "breakfast sandwich (bacon)",
+        "equipment": "tongs",
+        "quantity": "1",
+        "location": "utensil holder"
+    },
+    {
+        "recipe": "breakfast sandwich (bacon)",
+        "equipment": "spatula",
+        "quantity": "1",
+        "location": "utensil holder"
+    },
+    {
+        "recipe": "breakfast sandwich (bacon)",
+        "equipment": "small cutting board",
+        "quantity": "1",
+        "location": "cutting board"
+    },
+    {
+        "recipe": "breakfast sandwich (bacon)",
+        "equipment": "small bowl",
+        "quantity": "1",
+        "location": "plates & bowls"
+    },
+    {
+        "recipe": "breakfast sandwich (bacon)",
+        "equipment": "small spoon",
+        "quantity": "1",
+        "location": "spoon"
+    },
+    {
+        "recipe": "hot dog",
+        "equipment": "cast iron pan",
+        "quantity": "1",
+        "location": "stovetop"
+    },
+    {
+        "recipe": "hot dog",
+        "equipment": "tongs",
+        "quantity": "1",
+        "location": "utensil holder"
+    },
+    {
+        "recipe": "hot dog",
+        "equipment": "small cutting board",
+        "quantity": "1",
+        "location": "cutting board"
+    },
+    {
+        "recipe": "hot dog",
+        "equipment": "paring knife",
+        "quantity": "1",
+        "location": "silverware"
+    },
+    {
+        "recipe": "avocado toast",
+        "equipment": "small cutting board",
+        "quantity": "1",
+        "location": "cutting board"
+    },
+    {
+        "recipe": "avocado toast",
+        "equipment": "paring knife",
+        "quantity": "1",
+        "location": "silverware"
+    },
+    {
+        "recipe": "avocado toast",
+        "equipment": "small pan",
+        "quantity": "1",
+        "location": "stovetop"
+    },
+    {
+        "recipe": "avocado toast",
+        "equipment": "spatula",
+        "quantity": "1",
+        "location": "utensil holder"
+    },
+    {
+        "recipe": "avocado toast",
+        "equipment": "food processor",
+        "quantity": "1",
+        "location": "cupboard"
+    },
+    {
+        "recipe": "avocado toast",
+        "equipment": "citrus juicer",
         "quantity": "1",
         "location": "cupboard"
     }

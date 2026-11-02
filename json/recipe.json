@@ -22,7 +22,7 @@
     },
     {
         "id": "4",
-        "recipe": "breakfast sandwich",
+        "recipe": "breakfast sandwich (pork)",
         "category": "breakfast",
         "ethnicity": "american",
         "profile": "savory"
@@ -78,30 +78,65 @@
     },
     {
         "id": "12",
+        "recipe": "avocado toast",
+        "category": "breakfast",
+        "ethnicity": "american",
+        "profile": "savory"
+    },
+    {
+        "id": "13",
         "recipe": "bruschetta",
         "category": "snack",
         "ethnicity": "american",
         "profile": "savory"
     },
     {
-        "id": "13",
+        "id": "14",
         "recipe": "fried chicken (Thai style)",
         "category": "main course",
         "ethnicity": "thai",
         "profile": "savory"
     },
     {
-        "id": "14",
+        "id": "15",
         "recipe": "chicken caesar wrap",
         "category": "main course",
         "ethnicity": "american",
         "profile": "savory"
     },
     {
-        "id": "15",
+        "id": "16",
         "recipe": "pancakes",
         "category": "breakfast",
         "ethnicity": "american",
         "profile": "sweet"
+    },
+    {
+        "id": "17",
+        "recipe": "hot dog",
+        "category": "main course",
+        "ethnicity": "american",
+        "profile": "savory"
+    },
+    {
+        "id": "18",
+        "recipe": "breakfast sandwich (bacon)",
+        "category": "breakfast",
+        "ethnicity": "american",
+        "profile": "savory"
+    },
+    {
+        "id": "19",
+        "recipe": "chicken breast (Chinese style)",
+        "category": "main course",
+        "ethnicity": "chinese",
+        "profile": "savory"
+    },
+    {
+        "id": "20",
+        "recipe": "chicken noodle soup",
+        "category": "main course",
+        "ethnicity": "american",
+        "profile": "savory"
     }
 ]

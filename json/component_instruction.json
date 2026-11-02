@@ -152,102 +152,77 @@
     {
         "component": "lumpia",
         "step": "2",
-        "instruction": "dice carrot"
+        "instruction": "roughly chop carrot, onion, garlic and celery"
     },
     {
         "component": "lumpia",
         "step": "3",
-        "instruction": "dice onion"
+        "instruction": "add carrot, onion, garlic and cerely to food processer until all ingredients are finely chopped"
     },
     {
         "component": "lumpia",
         "step": "4",
-        "instruction": "dice garlic"
+        "instruction": "combine carrot, onion, garlic and celery into a mixing bowl and mix well"
     },
     {
         "component": "lumpia",
         "step": "5",
-        "instruction": "dice celery"
+        "instruction": "set frying pot on stove and set heat to medium-high"
     },
     {
         "component": "lumpia",
         "step": "6",
-        "instruction": "add carrot, onion, garlic and cerely to food processer as room allows"
+        "instruction": "add oil to pot"
     },
     {
         "component": "lumpia",
         "step": "7",
-        "instruction": "combine carrot, onion, garlic and celery into a mixing bowl and stir well"
+        "instruction": "add ground pork, salt, pepper, soy sauce and eggs into the mixing bowl and mix well "
     },
     {
         "component": "lumpia",
         "step": "8",
-        "instruction": "dice chicken"
+        "instruction": "add water to small bowl"
     },
     {
         "component": "lumpia",
         "step": "9",
-        "instruction": "add chicken to food processor"
+        "instruction": "using a baking tray as a base and a small spoon as a scooper, create lumpias by adding mix and folding the wrapper towards the middle, with water sealing the final fold "
     },
     {
         "component": "lumpia",
         "step": "10",
-        "instruction": "add chicken to mixing bowl"
+        "instruction": "when all lumpias are created and frying oil is hot, add lumpias to the pot three at a time"
     },
     {
         "component": "lumpia",
         "step": "11",
-        "instruction": "add egg, soy sauce, salt, and pepper to mixing bowl"
-    },
-    {
-        "component": "lumpia",
-        "step": "12",
-        "instruction": "mix well until combined"
-    },
-    {
-        "component": "lumpia",
-        "step": "13",
-        "instruction": "add oil to a deep frying pot"
-    },
-    {
-        "component": "lumpia",
-        "step": "14",
-        "instruction": "heat on medium-high "
-    },
-    {
-        "component": "lumpia",
-        "step": "15",
-        "instruction": "create lumpias"
-    },
-    {
-        "component": "lumpia",
-        "step": "16",
         "instruction": "deep fry lumpias until golden brown"
     },
     {
         "component": "lumpia",
-        "step": "17",
+        "step": "12",
         "instruction": "set lumpias on a drying rack once cooked thoroughly"
     },
     {
         "component": "sweet chili sauce",
         "step": "1",
-        "instruction": "dice red jalapeno"
+        "instruction": "roughly chop red jalapeno and garlic. remove 50% of seeds from red jalapeno"
     },
     {
         "component": "sweet chili sauce",
         "step": "2",
-        "instruction": "dice garlic"
+        "instruction": "using food processor, finely chop garlic then set aside into a small bowl. Repeat for red jalapeno"
     },
     {
         "component": "sweet chili sauce",
         "step": "3",
-        "instruction": "add water to a small pot and set heat to medium-high"
+        "instruction": "add water and vinegar to a small pot and set heat to medium-high"
     },
     {
         "component": "sweet chili sauce",
         "step": "4",
-        "instruction": "add diced jalapeno, vinegar and sugar to the boiling pot"
+        "instruction": "add diced jalapeno and sugar to the boiling pot"
     },
     {
         "component": "sweet chili sauce",
@@ -272,7 +247,17 @@
     {
         "component": "sweet chili sauce",
         "step": "9",
-        "instruction": "serve in a small bowl, or store in a jar"
+        "instruction": "turn off heat and pour sauce into a glass container"
+    },
+    {
+        "component": "sweet chili sauce",
+        "step": "10",
+        "instruction": "add garlic to sauce and mix well"
+    },
+    {
+        "component": "sweet chili sauce",
+        "step": "11",
+        "instruction": "quickly work to cool down the sauce; refrigerate before serving"
     },
     {
         "component": "english muffin",
@@ -1323,5 +1308,180 @@
         "component": "chicken noodle soup",
         "step": "23",
         "instruction": "add parsley and cilantro"
+    },
+    {
+        "component": "toast",
+        "step": "1",
+        "instruction": "set toaster oven to 400 degrees"
+    },
+    {
+        "component": "toast",
+        "step": "2",
+        "instruction": "set time duration to 5 minutes"
+    },
+    {
+        "component": "toast",
+        "step": "3",
+        "instruction": "place bread in toaster oven"
+    },
+    {
+        "component": "scrambled eggs (with milk)",
+        "step": "1",
+        "instruction": "place small pan on stove and set stove to medium high"
+    },
+    {
+        "component": "scrambled eggs (with milk)",
+        "step": "2",
+        "instruction": "add oil to pan (use bacon fan when available)"
+    },
+    {
+        "component": "scrambled eggs (with milk)",
+        "step": "3",
+        "instruction": "add eggs and milk to small bowl"
+    },
+    {
+        "component": "scrambled eggs (with milk)",
+        "step": "4",
+        "instruction": "mix well until combined"
+    },
+    {
+        "component": "scrambled eggs (with milk)",
+        "step": "5",
+        "instruction": "pour egg mix into pan"
+    },
+    {
+        "component": "scrambled eggs (with milk)",
+        "step": "6",
+        "instruction": "wait 2 minutes, then flip eggs with spatula"
+    },
+    {
+        "component": "scrambled eggs (with milk)",
+        "step": "7",
+        "instruction": "set heat to low"
+    },
+    {
+        "component": "scrambled eggs (with milk)",
+        "step": "8",
+        "instruction": "stir eggs until fully cooked"
+    },
+    {
+        "component": "bacon",
+        "step": "1",
+        "instruction": "place small pan on stove and set stove to medium high"
+    },
+    {
+        "component": "bacon",
+        "step": "2",
+        "instruction": "add bacon strips"
+    },
+    {
+        "component": "bacon",
+        "step": "3",
+        "instruction": "after 4 minutes, flip bacon using tongs"
+    },
+    {
+        "component": "bacon",
+        "step": "4",
+        "instruction": "continue flipping until bacon is crispy"
+    },
+    {
+        "component": "hot sauce",
+        "step": "1",
+        "instruction": "pour Taco Bell fire sauce from fridge"
+    },
+    {
+        "component": "hot dog",
+        "step": "1",
+        "instruction": "chop onion into small strips"
+    },
+    {
+        "component": "hot dog",
+        "step": "2",
+        "instruction": "place cast iron pan on stove and set heat to high"
+    },
+    {
+        "component": "hot dog",
+        "step": "3",
+        "instruction": "add butter to pan and spread evenly"
+    },
+    {
+        "component": "hot dog",
+        "step": "4",
+        "instruction": "after 1 minute, add onion and beef hot dog links to pan"
+    },
+    {
+        "component": "hot dog",
+        "step": "5",
+        "instruction": "rotate links and onions occassionally"
+    },
+    {
+        "component": "hot dog",
+        "step": "6",
+        "instruction": "add hot dog buns to the edge of the pan then watch for charring"
+    },
+    {
+        "component": "hot dog",
+        "step": "7",
+        "instruction": "after all links and onions are cooked, turn heat off "
+    },
+    {
+        "component": "hot dog",
+        "step": "8",
+        "instruction": "assemble hot dog with bun, links, onion, mustard and relish"
+    },
+    {
+        "component": "avocado spread",
+        "step": "1",
+        "instruction": "roughly chop avocado and garlic"
+    },
+    {
+        "component": "avocado spread",
+        "step": "2",
+        "instruction": "add the avocado, Greek yogurt, lemon juice, olive oil, and grated garlic into food processor"
+    },
+    {
+        "component": "avocado spread",
+        "step": "3",
+        "instruction": "blend on high until completely smooth and pale green"
+    },
+    {
+        "component": "avocado spread",
+        "step": "4",
+        "instruction": "add olive oil to small frying pan and set the stove to medium heat"
+    },
+    {
+        "component": "avocado spread",
+        "step": "5",
+        "instruction": "once hot, add break egg on the pan"
+    },
+    {
+        "component": "avocado spread",
+        "step": "6",
+        "instruction": "after 3 minutes, flip the egg and set heat to low"
+    },
+    {
+        "component": "avocado spread",
+        "step": "7",
+        "instruction": "let egg cook for 2 minutes then turn off the heat"
+    },
+    {
+        "component": "avocado spread",
+        "step": "8",
+        "instruction": "slather the avocado spread onto the toast"
+    },
+    {
+        "component": "avocado spread",
+        "step": "9",
+        "instruction": "slice radish into small strips and place on top avocado spread"
+    },
+    {
+        "component": "avocado spread",
+        "step": "10",
+        "instruction": "add arugula, lemon juice and a few drops of olive oil over radish"
+    },
+    {
+        "component": "avocado spread",
+        "step": "11",
+        "instruction": "add egg on top, then salt and pepper"
     }
 ]

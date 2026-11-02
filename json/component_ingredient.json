@@ -10,7 +10,7 @@
         "component": "steak with garlic butter and herbs",
         "ingredient": "garlic",
         "quantity": "2",
-        "measurement": "tbsp",
+        "measurement": "clove",
         "location": "pantry"
     },
     {
@@ -171,7 +171,7 @@
         "component": "ginger scallion sauce",
         "ingredient": "garlic",
         "quantity": "4",
-        "measurement": "tbsp",
+        "measurement": "clove",
         "location": "pantry"
     },
     {
@@ -360,7 +360,7 @@
         "component": "sweet chili sauce",
         "ingredient": "garlic",
         "quantity": "4",
-        "measurement": "tbsp",
+        "measurement": "clove",
         "location": "pantry"
     },
     {
@@ -388,7 +388,7 @@
         "component": "garlic parsley pasta sauce",
         "ingredient": "garlic",
         "quantity": "3",
-        "measurement": "tbsp",
+        "measurement": "clove",
         "location": "pantry"
     },
     {
@@ -507,7 +507,7 @@
         "component": "caesar salad dressing",
         "ingredient": "garlic",
         "quantity": "2",
-        "measurement": "tbsp",
+        "measurement": "clove",
         "location": "pantry"
     },
     {
@@ -535,7 +535,7 @@
         "component": "marinara sauce",
         "ingredient": "garlic",
         "quantity": "3",
-        "measurement": "tbsp",
+        "measurement": "clove",
         "location": "pantry"
     },
     {
@@ -913,7 +913,7 @@
         "component": "chicken noodle soup",
         "ingredient": "garlic",
         "quantity": "3",
-        "measurement": "tbsp",
+        "measurement": "clove",
         "location": "pantry"
     },
     {
@@ -964,5 +964,152 @@
         "quantity": "",
         "measurement": "",
         "location": ""
+    },
+    {
+        "component": "toast",
+        "ingredient": "10 grain bread",
+        "quantity": "1",
+        "measurement": "slice",
+        "location": "pantry"
+    },
+    {
+        "component": "scrambled eggs (with milk)",
+        "ingredient": "egg",
+        "quantity": "1",
+        "measurement": "ea",
+        "location": "fridge"
+    },
+    {
+        "component": "scrambled eggs (with milk)",
+        "ingredient": "milk",
+        "quantity": "1/2",
+        "measurement": "cup",
+        "location": "fridge"
+    },
+    {
+        "component": "bacon",
+        "ingredient": "bacon",
+        "quantity": "1",
+        "measurement": "slice",
+        "location": "pantry"
+    },
+    {
+        "component": "hot sauce",
+        "ingredient": "Taco Bell fire sauce",
+        "quantity": "1",
+        "measurement": "tsp",
+        "location": "fridge"
+    },
+    {
+        "component": "hot dog",
+        "ingredient": "hot dog buns (keto)",
+        "quantity": "2",
+        "measurement": "ea",
+        "location": "pantry"
+    },
+    {
+        "component": "hot dog",
+        "ingredient": "beef hot dog links",
+        "quantity": "2",
+        "measurement": "ea",
+        "location": "fridge"
+    },
+    {
+        "component": "hot dog",
+        "ingredient": "sweet onion",
+        "quantity": "1/5",
+        "measurement": "ea",
+        "location": "pantry"
+    },
+    {
+        "component": "hot dog",
+        "ingredient": "yellow mustard",
+        "quantity": "2",
+        "measurement": "tbsp",
+        "location": "fridge"
+    },
+    {
+        "component": "hot dog",
+        "ingredient": "relish",
+        "quantity": "2",
+        "measurement": "tbsp",
+        "location": "fridge"
+    },
+    {
+        "component": "hot dog",
+        "ingredient": "butter",
+        "quantity": "2",
+        "measurement": "tbsp",
+        "location": "fridge"
+    },
+    {
+        "component": "avocado spread",
+        "ingredient": "avocado",
+        "quantity": "1",
+        "measurement": "ea",
+        "location": "fridge"
+    },
+    {
+        "component": "avocado spread",
+        "ingredient": "greek yogurt",
+        "quantity": "1",
+        "measurement": "cup",
+        "location": "fridge"
+    },
+    {
+        "component": "avocado spread",
+        "ingredient": "lemon juice",
+        "quantity": "1",
+        "measurement": "tbsp",
+        "location": "fridge"
+    },
+    {
+        "component": "avocado spread",
+        "ingredient": "olive oil",
+        "quantity": "1/8",
+        "measurement": "cup",
+        "location": "pantry"
+    },
+    {
+        "component": "avocado spread",
+        "ingredient": "garlic",
+        "quantity": "1",
+        "measurement": "clove",
+        "location": "pantry"
+    },
+    {
+        "component": "avocado spread",
+        "ingredient": "radish",
+        "quantity": "1",
+        "measurement": "ea",
+        "location": "fridge"
+    },
+    {
+        "component": "avocado spread",
+        "ingredient": "arugula",
+        "quantity": "1",
+        "measurement": "handful",
+        "location": "fridge"
+    },
+    {
+        "component": "avocado spread",
+        "ingredient": "egg",
+        "quantity": "1",
+        "measurement": "ea",
+        "location": "fridge"
+    },
+    {
+        "component": "avocado spread",
+        "ingredient": "salt",
+        "quantity": "3",
+        "measurement": "tsp",
+        "location": "pantry"
+    },
+    {
+        "component": "avocado spread",
+        "ingredient": "pepper",
+        "quantity": "3",
+        "measurement": "tsp",
+        "location": "pantry"
     }
 ]

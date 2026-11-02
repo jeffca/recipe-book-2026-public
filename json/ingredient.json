@@ -2,7 +2,7 @@
     {
         "id": "1",
         "ingredient": "garlic",
-        "measurement": "tbsp",
+        "measurement": "clove",
         "location": "pantry"
     },
     {
@@ -260,7 +260,7 @@
     {
         "id": "44",
         "ingredient": "avocado",
-        "measurement": "oz",
+        "measurement": "ea",
         "location": "fridge"
     },
     {
@@ -447,6 +447,66 @@
         "id": "75",
         "ingredient": "broccoli",
         "measurement": "bunch",
+        "location": "fridge"
+    },
+    {
+        "id": "76",
+        "ingredient": "10 grain bread",
+        "measurement": "slice",
+        "location": "pantry"
+    },
+    {
+        "id": "77",
+        "ingredient": "bacon",
+        "measurement": "slice",
+        "location": "pantry"
+    },
+    {
+        "id": "78",
+        "ingredient": "Taco Bell fire sauce",
+        "measurement": "tsp",
+        "location": "fridge"
+    },
+    {
+        "id": "79",
+        "ingredient": "hot dog buns (keto)",
+        "measurement": "ea",
+        "location": "pantry"
+    },
+    {
+        "id": "80",
+        "ingredient": "beef hot dog links",
+        "measurement": "ea",
+        "location": "fridge"
+    },
+    {
+        "id": "81",
+        "ingredient": "yellow mustard",
+        "measurement": "tbsp",
+        "location": "fridge"
+    },
+    {
+        "id": "82",
+        "ingredient": "relish",
+        "measurement": "tbsp",
+        "location": "fridge"
+    },
+    {
+        "id": "83",
+        "ingredient": "greek yogurt",
+        "measurement": "cup",
+        "location": "fridge"
+    },
+    {
+        "id": "84",
+        "ingredient": "radish",
+        "measurement": "ea",
+        "location": "fridge"
+    },
+    {
+        "id": "85",
+        "ingredient": "arugula",
+        "measurement": "handful",
         "location": "fridge"
     }
 ]
